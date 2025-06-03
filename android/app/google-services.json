@@ -1,0 +1,55 @@
+{
+  "project_info": {
+
+    "project_number": "588678431791",
+    "firebase_url": "https://tu-vung-tienganh-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "tu-vung-tienganh",
+    "storage_bucket": "tu-vung-tienganh.firebasestorage.app"
+
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588678431791:android:4b347df3f33f5bdcea72da",
+        "android_client_info": {
+          "package_name": "com.example.app_tieng_anh"
+        }
+      },
+
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgc2KJ5eVk8f49xi19y5m1WmmgisVaqF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+
+        }
+      }
+    },
+    {
+      "client_info": {
+
+        "mobilesdk_app_id": "1:588678431791:android:636ba2d3dfc9cafeea72da",
+        "android_client_info": {
+          "package_name": "com.example.test_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgc2KJ5eVk8f49xi19y5m1WmmgisVaqF0"
+
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

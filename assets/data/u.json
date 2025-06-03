@@ -1,0 +1,3139 @@
+[
+    {
+        "word": "ugly",
+        "level": "B1",
+        "pos": "adjective",
+        "us_audio": "ugly_us.mp3",
+        "uk_audio": "ugly_uk.mp3",
+        "us_phonetic": "/ˈʌɡli/",
+        "uk_phonetic": "/ˈʌɡli/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "unpleasant to look at",
+                "examples": [
+                    "an ugly face",
+                    "an ugly building",
+                    "an ugly scar",
+                    "The witch was hideously ugly.",
+                    "Why do some of our government buildings look ugly?",
+                    "Jane was a great beauty, but I was always considered to be the ugly sister.",
+                    "The room was full of heavy, ugly furniture.",
+                    "The screaming child in her arms was an ugly little thing."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "unpleasant or dangerous; involving threats or violence",
+                "examples": [
+                    "an ugly incident/scene",
+                    "There were ugly scenes in the streets last night as rioting continued.",
+                    "A fight started and things got pretty ugly.",
+                    "the latest cinematic effort to lay bare the ugly truth about Hollywood",
+                    "the ugly realities of war",
+                    "Very quickly, the mood turned ugly."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "ultimately",
+        "level": "B2",
+        "pos": "adverb",
+        "us_audio": "ultimately_us.mp3",
+        "uk_audio": "ultimately_uk.mp3",
+        "us_phonetic": "/ˈʌltɪmətli/",
+        "uk_phonetic": "/ˈʌltɪmətli/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "in the end; finally",
+                "examples": [
+                    "A poor diet will ultimately lead to illness.",
+                    "He is ultimately responsible for the actions of the rebels he leads.",
+                    "Ultimately, you'll have to make the decision yourself.",
+                    "His strategy ultimately failed, however.",
+                    "Smith ultimately became the father of modern geology.",
+                    "The economic changes ultimately proved successful.",
+                    "It was a propaganda victory that ultimately decided the outcome of the war.",
+                    "The campaign was ultimately successful."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "at the most basic and important level",
+                "examples": [
+                    "All life depends ultimately on oxygen.",
+                    "Ultimately, however, films come down to their stories and characters."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "umbrella",
+        "level": "A1",
+        "pos": "noun",
+        "us_audio": "umbrella_us.mp3",
+        "uk_audio": "umbrella_uk.mp3",
+        "us_phonetic": "/ʌmˈbrelə/",
+        "uk_phonetic": "/ʌmˈbrelə/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "an object with a round folding frame of long, straight pieces of metal covered with material, that you use to protect yourself from the rain or from hot sun",
+                "examples": [
+                    "to carry/hold an umbrella",
+                    "colourful beach umbrellas",
+                    "I put up my umbrella.",
+                    "a rolled/furled umbrella",
+                    "under an umbrella Spectators huddled under umbrellas as the rain poured down.",
+                    "an umbrella stand (= for putting umbrellas in when they are not being used)"
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "a thing that contains or includes many different parts or elements",
+                "examples": [
+                    "under the umbrella of something Many previously separate groups are now operating under the umbrella of a single authority.",
+                    "an umbrella organization/group/fund",
+                    "‘Contact sports’ is an umbrella term for a variety of different sports.",
+                    "Two separate political parties emerged from the umbrella organization.",
+                    "The two sectors combined under the umbrella of the Scottish Council.",
+                    "an umbrella group including members of opposition parties",
+                    "the broad umbrella of alternative medicine"
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "a country or system that protects people",
+                "examples": [
+                    "the American nuclear umbrella over Europe"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "unable",
+        "level": "B1",
+        "pos": "adjective",
+        "us_audio": "unable_us.mp3",
+        "uk_audio": "unable_uk.mp3",
+        "us_phonetic": "/ʌnˈeɪbl/",
+        "uk_phonetic": "/ʌnˈeɪbl/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "not having the skill, strength, time, knowledge, etc. to do something",
+                "examples": [
+                    "a former soldier who has been unable to find work since the war ended",
+                    "They have been unable or unwilling to resolve the conflict.",
+                    "I was unable to attend the meeting, but sent my apologies.",
+                    "Unable to get a taxi, she heads for the bus stop.",
+                    "His family were unable to afford the cost of the school uniform.",
+                    "The company is losing money and is unable to pay its bills.",
+                    "Ageing power stations may be unable to cope with ever-increasing demand for electricity.",
+                    "He lay there, unable to move.",
+                    "I tried to contact him but was unable to.",
+                    "I am afraid I am unable to provide the information you have requested.",
+                    "She was unable to hide her excitement.",
+                    "Let us know if you’re unable to come.",
+                    "The Minister seems unable to grasp this simple point.",
+                    "Christine feels unable to confide in her fiancé.",
+                    "The accident left him unable to walk.",
+                    "He remained silent, unwilling or unable to say what was in his mind.",
+                    "He seemed constitutionally unable to keep quiet.",
+                    "He was considered unable to cope with the pressure of the job.",
+                    "He went on, apparently unable to stop.",
+                    "She found herself unable to meet his gaze.",
+                    "The road was deemed unable to cope with increased traffic.",
+                    "Ben is almost completely paralysed and unable to speak following a stroke.",
+                    "The union has been unable to reach an agreement with the company."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "uncle",
+        "level": "A1",
+        "pos": "noun",
+        "us_audio": "uncle_us.mp3",
+        "uk_audio": "uncle_uk.mp3",
+        "us_phonetic": "/ˈʌŋkl/",
+        "uk_phonetic": "/ˈʌŋkl/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "the brother of your mother or father; the husband of your aunt or uncle",
+                "examples": [
+                    "Uncle Ian",
+                    "I'm going to visit my uncle.",
+                    "a maternal/paternal uncle (= related through the mother’s/father's side of the family)",
+                    "I've just become an uncle (= because my brother/sister has had a baby).",
+                    "uncle to somebody Joey was like an uncle to us.",
+                    "He was the youngest son of Edward III and uncle to Richard II.",
+                    "The celebrant of the Mass was Rev. Martin Doyle, uncle of the bride.",
+                    "He looks so much like his late uncle.",
+                    "The boss smiled at us all like a benevolent uncle.",
+                    "the fortune left to her by her dead uncle",
+                    "my favourite uncle"
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "used by children, with a first name, to address a man who is a close friend of their parents",
+                "examples": [
+                    ""
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "used as a polite way of addressing or referring to an older man",
+                "examples": [
+                    "The uncle who lives opposite my parents is always so warm and friendly."
+                ]
+            },
+            {
+                "sense_index": 4,
+                "definition": "used to say how easy and quick it is to do a particular task",
+                "examples": [
+                    "Press here and Bob's your uncle! It's disappeared."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "uncomfortable",
+        "level": "B1",
+        "pos": "adjective",
+        "us_audio": "uncomfortable_us.mp3",
+        "uk_audio": "uncomfortable_uk.mp3",
+        "us_phonetic": "/ʌnˈkʌmftəbl/",
+        "uk_phonetic": "/ʌnˈkʌmftəbl/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "not letting you feel physically comfortable; unpleasant to wear, sit on, etc.",
+                "examples": [
+                    "uncomfortable shoes",
+                    "uncomfortable to do something The headphones can be uncomfortable to wear.",
+                    "I couldn't sleep because the bed was so uncomfortable.",
+                    "I find these chairs incredibly uncomfortable."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "not feeling physically relaxed, warm, etc.",
+                "examples": [
+                    "I was sitting in an extremely uncomfortable position.",
+                    "it is uncomfortable to do something It was uncomfortable to walk for long periods of time.",
+                    "She still finds it uncomfortable to stand without support.",
+                    "Sharp stones on the path made walking barefoot rather uncomfortable."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "anxious, embarrassed or afraid and unable to relax; making you feel like this",
+                "examples": [
+                    "He looked distinctly uncomfortable when the subject was mentioned.",
+                    "uncomfortable with something She felt uncomfortable with the way George looked at her.",
+                    "They are uncomfortable with the idea of a military assault.",
+                    "The thought made her even more uncomfortable.",
+                    "There was an uncomfortable silence.",
+                    "uncomfortable about doing something She was always a little uncomfortable about being photographed.",
+                    "uncomfortable about something They are uncomfortable about the compromises they have made.",
+                    "uncomfortable to do something The film is often very uncomfortable to watch.",
+                    "it is uncomfortable to do something It is very uncomfortable to have to admit that we might share some responsibility for the situation.",
+                    "A few remain highly uncomfortable with the idea of same-sex marriage.",
+                    "He started to get a bit uncomfortable as the conversation continued.",
+                    "I noticed that Elisa was suddenly uncomfortable and blushing.",
+                    "Planners seem a little uncomfortable with the current government guidelines.",
+                    "She was a little uncomfortable about this situation.",
+                    "The way he looked at her made her distinctly uncomfortable.",
+                    "This discussion leaves them uncomfortable.",
+                    "Some teachers feel uncomfortable about imposing group work on students.",
+                    "They were uncomfortable with the new management style.",
+                    "It was an uncomfortable situation for everyone."
+                ]
+            },
+            {
+                "sense_index": 4,
+                "definition": "unpleasant or difficult to deal with",
+                "examples": [
+                    "an uncomfortable fact",
+                    "I had the uncomfortable feeling that it was my fault.",
+                    "Her letter was an uncomfortable reminder of responsibilities I preferred to forget about."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "unconscious",
+        "level": "B2",
+        "pos": "adjective",
+        "us_audio": "unconscious_us.mp3",
+        "uk_audio": "unconscious_uk.mp3",
+        "us_phonetic": "/ʌnˈkɑːnʃəs/",
+        "uk_phonetic": "/ʌnˈkɒnʃəs/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "in a state like sleep because of an injury or illness, and not able to use your senses",
+                "examples": [
+                    "They found him lying unconscious on the floor.",
+                    "She was knocked unconscious.",
+                    "She fell unconscious after breathing in the gas.",
+                    "It was a powerful sedative that would render them unconscious within minutes.",
+                    "Her eyes closed as she went unconscious.",
+                    "The attack left her unconscious.",
+                    "an unconscious patient"
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "existing or happening without you realizing or being aware; not deliberate",
+                "examples": [
+                    "unconscious desires",
+                    "Freud sought to unlock the workings of the unconscious mind.",
+                    "the danger of unconscious bias",
+                    "The brochure is full of unconscious humour.",
+                    "She believes there is unconscious discrimination against women in science.",
+                    "These impulses are often totally unconscious.",
+                    "Human beings are driven by many unconscious impulses.",
+                    "Prejudice very often operates at an unconscious level.",
+                    "She researches into the depths of the unconscious mind.",
+                    "Your choice of ideal partner can either be conscious or unconscious."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "not aware of somebody/something; not noticing something; not conscious",
+                "examples": [
+                    "She is unconscious of the effect she has on people.",
+                    "He was quite unconscious of the danger.",
+                    "Parents are often quite unconscious of the ways in which they influence their children.",
+                    "He made his way down the street, unconscious of the people, cars and buildings around him."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "under",
+        "level": "A1",
+        "pos": "adverb",
+        "us_audio": "under_us.mp3",
+        "uk_audio": "under_uk.mp3",
+        "us_phonetic": "/ˈʌndər/",
+        "uk_phonetic": "/ˈʌndə(r)/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "below something",
+                "examples": [
+                    "He pulled up the covers and crawled under."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "below the surface of water",
+                "examples": [
+                    "She took a deep breath and stayed under for more than a minute.",
+                    "The boat was going under fast."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "less; younger",
+                "examples": [
+                    "prices of ten dollars and under",
+                    "children aged 12 and under"
+                ]
+            },
+            {
+                "sense_index": 4,
+                "definition": "in or into an unconscious state",
+                "examples": [
+                    "He felt himself going under."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "under",
+        "level": "A1",
+        "pos": "preposition",
+        "us_audio": "under_us.mp3",
+        "uk_audio": "under_uk.mp3",
+        "us_phonetic": "/ˈʌndər/",
+        "uk_phonetic": "/ˈʌndə(r)/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "in, to or through a position that is below something",
+                "examples": [
+                    "Have you looked under the bed?",
+                    "She placed the ladder under (= just lower than) the window.",
+                    "The dog squeezed under the gate and ran into the road."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "below the surface of something; covered by something",
+                "examples": [
+                    "The boat lay under several feet of water."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "less than; younger than",
+                "examples": [
+                    "an annual income of under £10 000",
+                    "It took us under an hour.",
+                    "I'm actually in the film for just under two minutes.",
+                    "Nobody under 18 is allowed to buy alcohol."
+                ]
+            },
+            {
+                "sense_index": 4,
+                "definition": "affected by something",
+                "examples": [
+                    "The wall collapsed under the strain.",
+                    "I've been feeling under stress lately.",
+                    "I'm under no illusions about what hard work this will be.",
+                    "You'll be under anaesthetic, so you won't feel a thing."
+                ]
+            },
+            {
+                "sense_index": 5,
+                "definition": "used to say who or what controls, governs or manages somebody/something",
+                "examples": [
+                    "The country is now under martial law.",
+                    "The coinage was reformed under Elizabeth I (= when she was queen).",
+                    "She has a staff of 19 working under her.",
+                    "Under its new conductor, the orchestra has established an international reputation."
+                ]
+            },
+            {
+                "sense_index": 6,
+                "definition": "according to an agreement, a law or a system",
+                "examples": [
+                    "A man was detained under the Mental Health Act.",
+                    "Under the terms of the lease you had no right to sublet the property.",
+                    "Is the television still under guarantee?"
+                ]
+            },
+            {
+                "sense_index": 7,
+                "definition": "experiencing a particular process",
+                "examples": [
+                    "The hotel is still under construction.",
+                    "The matter is under investigation."
+                ]
+            },
+            {
+                "sense_index": 8,
+                "definition": "using a particular name",
+                "examples": [
+                    "She also wrote under the pseudonym of Barbara Vine."
+                ]
+            },
+            {
+                "sense_index": 9,
+                "definition": "found in a particular part of a book, list, etc.",
+                "examples": [
+                    "If it's not under ‘sports’, try looking under ‘games’."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "underground",
+        "level": "A2",
+        "pos": "adjective",
+        "us_audio": "underground_us.mp3",
+        "uk_audio": "underground_uk.mp3",
+        "us_phonetic": "/ˌʌndərˈɡraʊnd/",
+        "uk_phonetic": "/ˌʌndəˈɡraʊnd/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "under the surface of the ground",
+                "examples": [
+                    "an underground bunker/tunnel",
+                    "underground parking",
+                    "an underground car park",
+                    "underground passages/caves/streams",
+                    "underground cables",
+                    "They carried out a series of underground nuclear tests."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "operating secretly and often illegally, especially against a government",
+                "examples": [
+                    "an underground resistance movement",
+                    "The changes will affect all workers, whether underground or legal.",
+                    "The party was originally formed as an underground organization in 1987."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "underground",
+        "level": "A2",
+        "pos": "adverb",
+        "us_audio": "underground_us.mp3",
+        "uk_audio": "underground_uk.mp3",
+        "us_phonetic": "/ˌʌndərˈɡraʊnd/",
+        "uk_phonetic": "/ˌʌndəˈɡraʊnd/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "under the surface of the ground",
+                "examples": [
+                    "Rescuers found victims trapped several feet underground.",
+                    "animals that live underground",
+                    "toxic waste buried deep underground",
+                    "a network of pipelines running underground"
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "in or into a secret place in order to hide from the police, the government, etc.",
+                "examples": [
+                    "He went underground to avoid arrest.",
+                    "If the group is outlawed they will go underground.",
+                    "Opposition groups have been driven underground."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "understand",
+        "level": "A1",
+        "pos": "verb",
+        "us_audio": "understand_us.mp3",
+        "uk_audio": "understand_uk.mp3",
+        "us_phonetic": "/ˌʌndərˈstænd/",
+        "uk_phonetic": "/ˌʌndəˈstænd/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "to know or realize the meaning of words, a language, what somebody says, etc.",
+                "examples": [
+                    "understand (something) Can you understand French?",
+                    "Do you understand the instructions?",
+                    "She didn't understand the form she was signing.",
+                    "His accent made him difficult to understand.",
+                    "I'm not sure that I understand. Go over it again.",
+                    "I don't want you doing that again. Do you understand?",
+                    "understand what… I don't understand what he's saying.",
+                    "I’m sorry, I didn’t quite understand.",
+                    "Would you mind explaining that again? I’m not sure that I’ve understood correctly.",
+                    "Sorry, I don't quite follow (you).",
+                    "Can I just check that I’ve got this right?",
+                    "I’m not quite clear about what I’m supposed to do.",
+                    "I’m not really sure what you mean.",
+                    "Sorry, could you repeat that? I didn’t hear what you said.",
+                    "Sorry, would you mind repeating what you just said?",
+                    "If I understand you correctly, you want me to phone the customer and apologize?",
+                    "Do you mean (to say) that the deal's off?",
+                    "What exactly are you saying?",
+                    "So you're saying that the meeting's cancelled?",
+                    "Sorry, did you mean that I should wait here or come back later?",
+                    "Can you just confirm your date of birth for me, please?",
+                    "Why are you wanting a new phone when your current one works perfectly well?",
+                    "What shall we do tonight? I’m thinking bowling.",
+                    "I’m loving the weather today!",
+                    "I could barely understand a word of his story.",
+                    "If I've understood you correctly…",
+                    "The girl understands immediately and promises to be more careful.",
+                    "I finally understood what she meant.",
+                    "What is generally understood by ‘democracy’?"
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "to know or realize how or why something happens, how it works or why it is important",
+                "examples": [
+                    "understand something Doctors still don't understand much about the disease.",
+                    "No one is answering the phone—I can't understand it.",
+                    "I fully understand the reason for your decision.",
+                    "She understands the importance of good design.",
+                    "understand why, what, etc… I could never understand why she was fired.",
+                    "It is easy to understand how he made this mistake.",
+                    "They’re too young to understand what is happening.",
+                    "understand somebody/something doing something I just can't understand him taking the money.",
+                    "(formal) I just can't understand his taking the money.",
+                    "understand that… He was the first to understand that we live in a knowledge economy.",
+                    "be understood as something The national housing market is better understood as a collection of small, local housing markets.",
+                    "I don’t understand the instructions.",
+                    "Doctors still don’t understand much about the disease.",
+                    "‘It opens like this.’ ‘Oh, I see.’",
+                    "Oh yes, I see what you mean.",
+                    "She didn’t get the joke.",
+                    "I don’t get you.",
+                    "Sorry—I don’t quite follow.",
+                    "The plot is almost impossible to follow.",
+                    "They failed to grasp the importance of his words.",
+                    "The concept of infinity is almost impossible for the human mind to comprehend.",
+                    "Her behaviour wounded him in a way he did not really understand.",
+                    "They won't necessarily understand the pros and cons of the matter.",
+                    "The effects of these chemicals on the body are still poorly understood.",
+                    "These beliefs are best understood as a form of escapism.",
+                    "a woman struggling to understand an incomprehensible situation",
+                    "I can't understand what all the fuss is about.",
+                    "We came to understand why certain things happened in certain ways.",
+                    "She understood that this was her last chance."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "to know somebody’s character, how they feel and why they behave in the way they do",
+                "examples": [
+                    "understand somebody Nobody understands me.",
+                    "He doesn't understand women at all.",
+                    "We understand each other, even if we don’t always agree.",
+                    "understand what, how, etc… They understand what I have been through.",
+                    "I understand how hard things have been for you.",
+                    "understand (that…) I quite understand that you need some time alone.",
+                    "If you want to leave early, I'm sure he'll understand.",
+                    "understand somebody doing something I quite understand you needing some time alone.",
+                    "(formal) I quite understand your needing some time alone.",
+                    "These categories help us to better understand our readers.",
+                    "She realized that she had never properly understood him."
+                ]
+            },
+            {
+                "sense_index": 4,
+                "definition": "to think or believe that something is true because you have been told that it is",
+                "examples": [
+                    "understand (that)… I understand (that) you wish to see the manager.",
+                    "Am I to understand that you refuse?",
+                    "understand somebody/something to be/have something The Prime Minister is understood to have been extremely angry about the report.",
+                    "it is understood that… It is understood that the band are working on their next album."
+                ]
+            },
+            {
+                "sense_index": 5,
+                "definition": "to agree something with somebody without it needing to be said",
+                "examples": [
+                    "I thought it was understood that my expenses would be paid."
+                ]
+            },
+            {
+                "sense_index": 6,
+                "definition": "to realize that a word in a phrase or sentence is not expressed and to supply it in your mind",
+                "examples": [
+                    "In the sentence ‘I can't drive’, the object ‘a car’ is understood."
+                ]
+            },
+            {
+                "sense_index": 7,
+                "definition": "to make somebody believe/understand something",
+                "examples": [
+                    "I was given to understand that she had resigned."
+                ]
+            },
+            {
+                "sense_index": 8,
+                "definition": "to make your meaning clear, especially in another language",
+                "examples": [
+                    "He doesn't speak much Japanese but he can make himself understood."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "understanding",
+        "level": "A2",
+        "pos": "noun",
+        "us_audio": "understanding_us.mp3",
+        "uk_audio": "understanding_uk.mp3",
+        "us_phonetic": "/ˌʌndərˈstændɪŋ/",
+        "uk_phonetic": "/ˌʌndəˈstændɪŋ/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "the knowledge that somebody has about a particular subject or situation",
+                "examples": [
+                    "Students will gain a broad understanding of the workings of Parliament.",
+                    "a deep/clear understanding of something",
+                    "Unions said her comments showed a complete lack of understanding of what the civil service does.",
+                    "She possesses a thorough understanding of the nature of the threat we are faced with.",
+                    "The book aims to inform readers seeking a greater understanding of the issues involved.",
+                    "The committee has little or no understanding of the problem.",
+                    "to develop/improve/increase understanding of something",
+                    "to contribute to/lead to an understanding of something",
+                    "Most of the students have a sound understanding of English grammar.",
+                    "The existence of God is beyond human understanding (= humans cannot know whether God exists or not).",
+                    "Our understanding of the process is now much better.",
+                    "Such an approach to education does not expand children's knowledge and understanding of the world.",
+                    "The report gave the commission an understanding of the types of problems the police were facing.",
+                    "The course is designed for healthcare professionals who need a basic understanding of the subject.",
+                    "All of this research informs our understanding of how disease processes work.",
+                    "He had a poor understanding of international law.",
+                    "He showed a full understanding of the sequence of events.",
+                    "How children change so quickly is beyond my understanding.",
+                    "Scientists are seeking a better understanding of the process.",
+                    "She has only a limited understanding of what the job involves.",
+                    "Some religions have a common understanding of the nature of a divine being.",
+                    "The book aims to give children a balanced understanding of food and the environment.",
+                    "The idea of eternity is beyond our full understanding.",
+                    "The students seem to have a reasonable level of understanding of how genes work.",
+                    "This change of policy reflects a growing understanding of the extent of the problem.",
+                    "You need to read more widely to gain a proper understanding of the issue.",
+                    "a book that will deepen your understanding of global warming",
+                    "His writings reflect a good understanding of the society he lived in.",
+                    "Our growing understanding of genetics raises some complex issues.",
+                    "She has always shown great understanding of local political structures.",
+                    "The course should help enhance your understanding of the treatments available.",
+                    "There is a general lack of understanding about the problems facing newly arrived immigrants.",
+                    "You will need to have a thorough understanding of financial systems."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "the ability to understand why people behave in a particular way and to forgive them when they do something wrong",
+                "examples": [
+                    "Organizers of the rally say they want to promote understanding, tolerance and open-mindedness.",
+                    "These efforts would foster mutual understanding and respect for different values.",
+                    "We must tackle the problem with sympathy and understanding.",
+                    "Try to show a little more understanding.",
+                    "understanding between A and B We are looking for a better understanding between the two nations.",
+                    "He didn't show much understanding towards her when she lost her job.",
+                    "Greater contact between the two groups should lead to a better mutual understanding.",
+                    "She gave me a look filled with sympathetic understanding.",
+                    "She suddenly had a new understanding for her mother.",
+                    "There is generally good will and understanding between workers and employers."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "an informal agreement",
+                "examples": [
+                    "understanding about something We finally came to an understanding about what hours we would work.",
+                    "understanding that… We have this understanding that nobody talks about work over lunch.",
+                    "understanding with somebody I think I've reached an understanding with my mother.",
+                    "I have a clear understanding with any lawyer I hire.",
+                    "There is an unspoken understanding that Hugh will be in charge while Jane is away.",
+                    "They came to an understanding on when final payment was to be made.",
+                    "an understanding between the companies to fight against the proposed tax reform"
+                ]
+            },
+            {
+                "sense_index": 4,
+                "definition": "the particular way in which somebody understands something",
+                "examples": [
+                    "My understanding of the situation is different.",
+                    "It was our understanding that you had already been informed.",
+                    "My understanding is that we're meeting him at the theatre.",
+                    "The statement is open to various understandings."
+                ]
+            },
+            {
+                "sense_index": 5,
+                "definition": "used to introduce a condition that must be agreed before something else can happen",
+                "examples": [
+                    "They agreed to the changes on the understanding that they would be introduced gradually.",
+                    "I thought you gave me the book on the understanding that I could keep it."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "underwear",
+        "level": "B1",
+        "pos": "noun",
+        "us_audio": "underwear_us.mp3",
+        "uk_audio": "underwear_uk.mp3",
+        "us_phonetic": "/ˈʌndərwer/",
+        "uk_phonetic": "/ˈʌndəweə(r)/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "clothes that you wear under other clothes and next to the skin",
+                "examples": [
+                    "I never wear underwear.",
+                    "clean/thermal underwear",
+                    "She packed one change of underwear.",
+                    "Some mothers can't even afford to buy underwear for their kids.",
+                    "in your underwear He was getting cold standing around in his underwear.",
+                    "He stripped to his underwear and dived into the water.",
+                    "men's/​women's underwear"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "unemployed",
+        "level": "B1",
+        "pos": "adjective",
+        "us_audio": "unemployed_us.mp3",
+        "uk_audio": "unemployed_uk.mp3",
+        "us_phonetic": "/ˌʌnɪmˈplɔɪd/",
+        "uk_phonetic": "/ˌʌnɪmˈplɔɪd/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "without a job although able to work",
+                "examples": [
+                    "How long have you been unemployed?",
+                    "unemployed workers/people",
+                    "I've been unemployed for 5 months.",
+                    "training for unemployed youth",
+                    "an unemployed miner/labourer/builder",
+                    "an increase in the number of people registered as unemployed",
+                    "Thousands of labourers became unemployed with no alternative employment.",
+                    "As I was voluntarily unemployed, I wasn't entitled to benefit.",
+                    "The closure of the factory left hundreds of men unemployed.",
+                    "1 million women were registered unemployed, compared with 2.3 million men.",
+                    "unemployed graduates"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "unemployment",
+        "level": "B1",
+        "pos": "noun",
+        "us_audio": "unemployment_us.mp3",
+        "uk_audio": "unemployment_uk.mp3",
+        "us_phonetic": "/ˌʌnɪmˈplɔɪmənt/",
+        "uk_phonetic": "/ˌʌnɪmˈplɔɪmənt/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "the fact of a number of people not having a job; the number of people without a job",
+                "examples": [
+                    "an area of high/low unemployment",
+                    "rising unemployment",
+                    "It was a time of mass unemployment.",
+                    "Government schemes to combat youth unemployment",
+                    "the level/rate of unemployment",
+                    "The unemployment rate rose to 4.7 per cent.",
+                    "measures to help reduce/tackle unemployment",
+                    "The point is that this type of economics causes unemployment.",
+                    "unemployment figures/statistics",
+                    "a rise in both inflation and unemployment",
+                    "He applied for unemployment insurance and was approved.",
+                    "The unemployment trap exists when an unemployed person on benefit would be worse off in a low-paid job.",
+                    "Unemployment climbed above two million.",
+                    "Unemployment reached 30 per cent.",
+                    "This former mining town is now an unemployment black spot.",
+                    "Unemployment among graduates is falling steadily.",
+                    "Unemployment has hit unskilled workers in particular.",
+                    "Scottish unemployment rates were lower than the UK average."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "the state of not having a job",
+                "examples": [
+                    "Thousands of young people are facing long-term unemployment.",
+                    "He has had long periods of unemployment.",
+                    "One million people suffered unemployment as a result of the tsunami.",
+                    "a study of male/female unemployment"
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "money paid by the government to somebody who is unemployed",
+                "examples": [
+                    "Since losing his job, Mike has been collecting unemployment."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "unexpected",
+        "level": "B2",
+        "pos": "adjective",
+        "us_audio": "unexpected_us.mp3",
+        "uk_audio": "unexpected_uk.mp3",
+        "us_phonetic": "/ˌʌnɪkˈspektɪd/",
+        "uk_phonetic": "/ˌʌnɪkˈspektɪd/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "if something is unexpected, it surprises you because you were not expecting it",
+                "examples": [
+                    "Things took an unexpected turn.",
+                    "an unexpected death",
+                    "The news was disappointing but not unexpected.",
+                    "an unexpected result/consequence",
+                    "The film has some unexpected twists.",
+                    "an unexpected visitor",
+                    "The announcement was not entirely unexpected.",
+                    "The attack came from a totally unexpected direction.",
+                    "It happened in rather unexpected circumstances.",
+                    "Objections to the agreement came from an unexpected quarter.",
+                    "She blushed with pleasure at the unexpected praise.",
+                    "The following day something quite unexpected happened.",
+                    "The scandal was an unexpected bonus for the press."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "unfair",
+        "level": "B1",
+        "pos": "adjective",
+        "us_audio": "unfair_us.mp3",
+        "uk_audio": "unfair_uk.mp3",
+        "us_phonetic": "/ˌʌnˈfer/",
+        "uk_phonetic": "/ˌʌnˈfeə(r)/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "not right or fair according to a set of rules or principles; not treating people equally",
+                "examples": [
+                    "They had been given an unfair advantage.",
+                    "We hope the authorities will move to end such unfair practices.",
+                    "unfair dismissal (= a situation in which somebody is illegally dismissed from their job)",
+                    "It's so unfair!",
+                    "unfair on somebody I was working really long hours, which was unfair on my wife and my kids.",
+                    "it is unfair to do something It would be unfair not to let you have a choice.",
+                    "it is unfair to/on somebody to do something It seems unfair on him to make him pay for everything.",
+                    "unfair to somebody I don't want to be unfair to anyone, so you'll all get a chance.",
+                    "it is unfair for somebody to do something Most Americans think it is unfair for the government to take more than 25% of anyone's income in taxes.",
+                    "it is unfair that… They say it's grossly unfair that consumers are having to pay more now.",
+                    "unfair criticism",
+                    "Life seems so unfair sometimes.",
+                    "I thought the decision was grossly unfair.",
+                    "She thought it most unfair that girls were not allowed to take part.",
+                    "measures to prevent unfair competition between member countries"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "unfortunately",
+        "level": "A2",
+        "pos": "adverb",
+        "us_audio": "unfortunately_us.mp3",
+        "uk_audio": "unfortunately_uk.mp3",
+        "us_phonetic": "/ʌnˈfɔːrtʃənətli/",
+        "uk_phonetic": "/ʌnˈfɔːtʃənətli/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "used to say that a particular situation or fact makes you sad or disappointed, or gets you into a difficult position",
+                "examples": [
+                    "Unfortunately, I won't be able to attend the meeting.",
+                    "I can't make it, unfortunately.",
+                    "unfortunately for somebody/something Unfortunately for him, the police had been informed and were waiting outside.",
+                    "It won't be finished for a few weeks. Unfortunately!",
+                    "We wanted to have only films from Spain at this year's festival. Unfortunately, however, there weren't enough good ones."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "unhappy",
+        "level": "A2",
+        "pos": "adjective",
+        "us_audio": "unhappy_us.mp3",
+        "uk_audio": "unhappy_uk.mp3",
+        "us_phonetic": "/ʌnˈhæpi/",
+        "uk_phonetic": "/ʌnˈhæpi/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "not happy; sad",
+                "examples": [
+                    "to feel/look/seem/sound/become unhappy",
+                    "an unhappy marriage/childhood",
+                    "I didn't realize but he was deeply unhappy at that time.",
+                    "This story has an unhappy ending.",
+                    "unhappy to do something It makes me very unhappy to see you so miserable.",
+                    "She grew more unhappy as the years went by.",
+                    "She sounded so unhappy when I left her."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "not pleased or satisfied with somebody/something",
+                "examples": [
+                    "unhappy customers",
+                    "unhappy about/at something Many people are deeply unhappy about the way the government has handled this matter.",
+                    "unhappy about/at doing something He was unhappy at being left out of the team.",
+                    "unhappy with somebody/something They were unhappy with their accommodation.",
+                    "Your teacher says she's very unhappy with you.",
+                    "A lot of people were unhappy with the decision.",
+                    "unhappy to do something Shareholders are unhappy to have him as their CEO.",
+                    "unhappy (that)… Voters are unhappy that he has failed to deliver the kind of change that he promised.",
+                    "You should offer unhappy customers a proper complaints system.",
+                    "We felt entirely unhappy with the whole situation.",
+                    "They were terribly unhappy with the arrangements.",
+                    "She was very unhappy at the idea of staying in London.",
+                    "He was equally unhappy with the alternative.",
+                    "He sounded a bit unhappy about the extra work he had to do."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "not suitable",
+                "examples": [
+                    "an unhappy coincidence",
+                    "It was an unhappy choice of words."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "uniform",
+        "level": "A2",
+        "pos": "noun",
+        "us_audio": "uniform_us.mp3",
+        "uk_audio": "uniform_uk.mp3",
+        "us_phonetic": "/ˈjuːnɪfɔːrm/",
+        "uk_phonetic": "/ˈjuːnɪfɔːm/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "the special set of clothes worn by all members of an organization or a group at work, or by children at school",
+                "examples": [
+                    "The hat is part of the school uniform.",
+                    "a military uniform",
+                    "Do you have to wear uniform?",
+                    "in (a) uniform He was dressed in the uniform of a Royal Navy officer.",
+                    "soldiers in uniform",
+                    "a police/nurse's uniform",
+                    "an army uniform",
+                    "a soldier out of uniform",
+                    "the uniform of the Parachute Regiment",
+                    "He quickly put on his uniform.",
+                    "The limousine was driven by a chauffeur in uniform.",
+                    "She was wearing the regulation uniform of tunic, hat and tie.",
+                    "men and women who don military uniform to defend their country",
+                    "A man in a uniform stopped us entering."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "the clothes worn by the members of a sports team when they are playing",
+                "examples": [
+                    "a striped baseball uniform",
+                    "the team’s away uniform (= that they use when playing games away from home)"
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "the type of clothes that a person or group usually wears",
+                "examples": [
+                    "my standard teenage uniform of sweatshirt and jeans",
+                    "the traditional banker’s uniform",
+                    "They wore the standard uniform of the American office worker."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "union",
+        "level": "B1",
+        "pos": "noun",
+        "us_audio": "union_us.mp3",
+        "uk_audio": "union_uk.mp3",
+        "us_phonetic": "/ˈjuːniən/",
+        "uk_phonetic": "/ˈjuːniən/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "an organization of workers, usually in a particular industry, that exists to protect their interests, improve conditions of work, etc.",
+                "examples": [
+                    "I've joined the union.",
+                    "Teachers' unions in England are demanding the same improvements as in Scotland.",
+                    "a union leader/official/representative/activist",
+                    "the right to form a union",
+                    "Do you belong to a union?",
+                    "The union represents five million workers.",
+                    "public sector unions",
+                    "Greece's main workers' union",
+                    "a union member",
+                    "a member of a union",
+                    "a fall in union membership",
+                    "She became active in the teachers' union.",
+                    "The nurses' union negotiated a 3% pay rise.",
+                    "The union represents 40% of all hospital workers.",
+                    "The union threatened strike action if its demands were not met.",
+                    "He spoke out at a meeting of the National Union of Journalists.",
+                    "The figures come from a survey by public-sector unions.",
+                    "The news emerged yesterday after a meeting between managers and union representatives.",
+                    "unofficial action not authorized by the union leadership"
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "an association or a club for people or organizations with the same interest",
+                "examples": [
+                    "the Scottish Rugby Union"
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "a group of states or countries that have the same central government or that agree to work together",
+                "examples": [
+                    "the former Soviet Union",
+                    "the European Union",
+                    "Churchill was not hostile to the continent's attempt at forming a union.",
+                    "The crisis will be discussed as a meeting of African Union leaders this week."
+                ]
+            },
+            {
+                "sense_index": 4,
+                "definition": "the US (used especially at the time of the Civil War)",
+                "examples": [
+                    "the Union and the Confederacy",
+                    "the State of the Union address by the President"
+                ]
+            },
+            {
+                "sense_index": 5,
+                "definition": "the act of joining two or more things together; the state of being joined together",
+                "examples": [
+                    "a meeting to discuss economic and currency union",
+                    "union with something Northern Ireland’s union with Britain",
+                    "union between A and B political union between the country and its neighbour",
+                    "sexual union",
+                    "Some of the member states wanted a closer union rather than the loose confederation that developed.",
+                    "a move in the direction of full political union",
+                    "currency union between the two countries"
+                ]
+            },
+            {
+                "sense_index": 6,
+                "definition": "a marriage",
+                "examples": [
+                    "Their union was blessed with six children."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "unique",
+        "level": "B2",
+        "pos": "adjective",
+        "us_audio": "unique_us.mp3",
+        "uk_audio": "unique_uk.mp3",
+        "us_phonetic": "/juˈniːk/",
+        "uk_phonetic": "/juˈniːk/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "being the only one of its kind",
+                "examples": [
+                    "Everyone's fingerprints are unique.",
+                    "Each item has a unique 6-digit code.",
+                    "unique in something Her lawyer said the case was unique in French law.",
+                    "unique in doing something Saturn's largest moon is unique in having an atmosphere made mostly of nitrogen."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "very special or unusual",
+                "examples": [
+                    "The preview offers a unique opportunity to see the show without the crowds.",
+                    "This house has many unique features, including a 45-foot-long outdoor swimming pool.",
+                    "He approaches problems in his own unique way.",
+                    "The vast red sand dunes are what makes this area unique.",
+                    "a unique talent",
+                    "The deal will put the company in a unique position to export goods to Eastern Europe.",
+                    "He brings a unique combination of skills to this project.",
+                    "I feel I have a unique perspective on the situation.",
+                    "his unique style of leadership",
+                    "The museum provides a unique experience for anyone with an interest in naval history.",
+                    "Unfortunately your situation is not unique among assistants in New York.",
+                    "We have the almost unique situation of an artist banning his own work.",
+                    "There's nothing unique about the case.",
+                    "The museum is of unique historical importance.",
+                    "Surely nobody could have more unique or peaceful surroundings in which to work.",
+                    "Her many unique qualities include discretion and loyalty.",
+                    "The magnificent light make this place unique.",
+                    "Its magnificent proportions make this palace unique among the buildings of the world.",
+                    "The club has prospered under his unique style of leadership."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "belonging to or connected with one particular person, place or thing",
+                "examples": [
+                    "unique to somebody/something an atmosphere that is unique to New York",
+                    "The koala is unique to Australia.",
+                    "This monkey is unique to the island.",
+                    "The problem is not unique to this country.",
+                    "The pattern of stripes is unique to each individual animal.",
+                    "Teaching styles reflect the unique circumstances of each school and classroom."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "unit",
+        "level": "A2",
+        "pos": "noun",
+        "us_audio": "unit_us.mp3",
+        "uk_audio": "unit_uk.mp3",
+        "us_phonetic": "/ˈjuːnɪt/",
+        "uk_phonetic": "/ˈjuːnɪt/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "a single thing, person or group that is complete by itself but can also form part of something larger",
+                "examples": [
+                    "After 1946 the British Government treated the four territorial divisions as a single unit.",
+                    "The basic unit of society is the family.",
+                    "The cell is the unit of which all living organisms are composed.",
+                    "the role of the family unit in the community"
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "a single item of the type of product that a company sells",
+                "examples": [
+                    "The game's selling price was $15 per unit.",
+                    "What's the unit cost?",
+                    "The manufacturer sold 73 000 units in the first quarter.",
+                    "China produced 65 million units last year."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "one of the parts into which a textbook or a series of lessons is divided",
+                "examples": [
+                    "Each unit of the course that we completed felt like a real achievement.",
+                    "in a unit The present perfect is covered in Unit 8.",
+                    "The university is recruiting staff to teach the new units.",
+                    "You learned this in the first unit."
+                ]
+            },
+            {
+                "sense_index": 4,
+                "definition": "a group of people who work or live together, especially for a particular purpose",
+                "examples": [
+                    "army/military/combat/police units",
+                    "a special unit of the FBI",
+                    "Medical units were operating in the disaster area.",
+                    "Two members of the unit died on the mission.",
+                    "They formed small units of 15 to 20 people.",
+                    "The marching column encountered large units of the enemy.",
+                    "in a unit Soldiers in the unit are trained to survive in the snow and cold.",
+                    "The army is collaborating with guerrilla units in the border region.",
+                    "Enemy units have infiltrated the territory.",
+                    "The new manager changed a talented collection of individuals into a cohesive unit.",
+                    "Large departments were broken down into smaller units."
+                ]
+            },
+            {
+                "sense_index": 5,
+                "definition": "a department, especially in a hospital, that provides a particular type of care or treatment",
+                "examples": [
+                    "the intensive care unit",
+                    "a maternity unit",
+                    "The cancer research unit is attached to the local university.",
+                    "patients in the psychiatric unit"
+                ]
+            },
+            {
+                "sense_index": 6,
+                "definition": "a piece of furniture, especially a cupboard, that fits with and matches others of the same type",
+                "examples": [
+                    "a fitted kitchen with white units",
+                    "floor/wall units",
+                    "bedroom/kitchen units"
+                ]
+            },
+            {
+                "sense_index": 7,
+                "definition": "a fixed quantity, etc. that is used as a standard measurement",
+                "examples": [
+                    "a unit of measurement",
+                    "Women are advised not to drink more than fourteen units of alcohol per week.",
+                    "a unit of time/length/weight",
+                    "a unit of currency, such as the euro or the dollar",
+                    "per unit Electricity is ten pence per unit.",
+                    "The law requires almost all federal agencies to use metric units.",
+                    "The highest carbon emissions per unit of energy are from coal."
+                ]
+            },
+            {
+                "sense_index": 8,
+                "definition": "a small machine that has a particular purpose or is part of a larger machine",
+                "examples": [
+                    "a waste disposal unit",
+                    "the central processing unit of a computer",
+                    "an air-conditioning unit"
+                ]
+            },
+            {
+                "sense_index": 9,
+                "definition": "a single flat, house or section in a building or group of buildings",
+                "examples": [
+                    "a housing/residential unit",
+                    "to build new affordable housing units",
+                    "(Australian English, New Zealand English) The site is being redeveloped for 62 home units.",
+                    "a single dwelling unit",
+                    "a retail/business unit",
+                    "an industrial unit"
+                ]
+            },
+            {
+                "sense_index": 10,
+                "definition": "any whole number from 0 to 9",
+                "examples": [
+                    "a column for the tens and a column for the units"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "united",
+        "level": "A2",
+        "pos": "adjective",
+        "us_audio": "united_us.mp3",
+        "uk_audio": "united_uk.mp3",
+        "us_phonetic": "/juˈnaɪtɪd/",
+        "uk_phonetic": "/juˈnaɪtɪd/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "joined together as a political unit or by shared aims",
+                "examples": [
+                    "the United States of America",
+                    "efforts to build a united Europe",
+                    "a politically united federation"
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "in agreement and working together",
+                "examples": [
+                    "We need to become a more united team.",
+                    "united in something They are united in their opposition to the plan.",
+                    "united in doing something The two parties were united in insisting on keeping the two regions of the Sudan together.",
+                    "united by something The various religious and ethnic groupings were united by their desire to end British rule.",
+                    "united against somebody/something The EU has sent a clear message that it stands united against terrorism.",
+                    "united behind somebody/something In contrast, the Republican Party is united behind its candidate.",
+                    "Our nation needs to stand united.",
+                    "The members of the team were absolutely united in their common goal.",
+                    "We ask others to stand united with us.",
+                    "They were totally united in their aims."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "used in the names of some teams and companies",
+                "examples": [
+                    "Manchester United",
+                    "United Biscuits"
+                ]
+            },
+            {
+                "sense_index": 4,
+                "definition": "to show people that all members of a group have the same opinion about things",
+                "examples": [
+                    "The prime minister stressed the need to present a united front."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "universe",
+        "level": "B2",
+        "pos": "noun",
+        "us_audio": "universe_us.mp3",
+        "uk_audio": "universe_uk.mp3",
+        "us_phonetic": "/ˈjuːnɪvɜːrs/",
+        "uk_phonetic": "/ˈjuːnɪvɜːs/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "the whole of space and everything in it, including the earth, the planets and the stars",
+                "examples": [
+                    "in the universe Could there be intelligent life elsewhere in the universe?",
+                    "theories of how the universe began",
+                    "As far as we know, the entire universe was created in the big bang.",
+                    "Do you believe God created the universe?",
+                    "The universe is still expanding.",
+                    "the outer regions of the known universe"
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "a system of stars, planets, etc. in space outside our own",
+                "examples": [
+                    "The idea of a parallel universe is hard to grasp.",
+                    "(figurative) He lives in a little universe of his own.",
+                    "A tidal pool is its own little universe, bustling with activity and life."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "a particular area of experience or activity",
+                "examples": [
+                    "the moral universe"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "university",
+        "level": "A1",
+        "pos": "noun",
+        "us_audio": "university_us.mp3",
+        "uk_audio": "university_uk.mp3",
+        "us_phonetic": "/ˌjuːnɪˈvɜːrsəti/",
+        "uk_phonetic": "/ˌjuːnɪˈvɜːsəti/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "an institution at the highest level of education where you can study for a degree or do research",
+                "examples": [
+                    "Is there a university in this town?",
+                    "Ohio State University",
+                    "the University of York",
+                    "York University",
+                    "at a/the university She studied at the University of Chicago.",
+                    "(British English) at university Both their children are at university.",
+                    "(British English) He's hoping to go to university next year.",
+                    "a university student/lecturer/professor",
+                    "a university degree/course",
+                    "The site lies on the university campus next to the lake.",
+                    "My son has gone away to college.",
+                    "‘Where did you go to college?’",
+                    "‘Ohio State University.’",
+                    "My daughter is at university.",
+                    "I didn’t want to go to a large university.",
+                    "I applied to three universities.",
+                    "He goes to Princeton University.",
+                    "Young people may be deterred from entering university.",
+                    "She graduated from the University of Michigan in 1999.",
+                    "She's a graduate of Oxford University.",
+                    "She teaches botany at Syracuse University.",
+                    "I often think of my university days.",
+                    "the pressures of university life",
+                    "a university entrance exam",
+                    "There is stiff competition for university places.",
+                    "those who can afford university tuition",
+                    "His aim was to finish his doctorate and obtain a university chair."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "the experience of life thought of as giving somebody an education, instead of the person gaining formal qualifications",
+                "examples": [
+                    "a degree from the university of life"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "unknown",
+        "level": "B2",
+        "pos": "adjective",
+        "us_audio": "unknown_us.mp3",
+        "uk_audio": "unknown_uk.mp3",
+        "us_phonetic": "/ˌʌnˈnəʊn/",
+        "uk_phonetic": "/ˌʌnˈnəʊn/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "not known or identified",
+                "examples": [
+                    "A previously unknown group claimed responsibility for the bombing.",
+                    "He was trying, for some unknown reason, to count the stars.",
+                    "The man's identity remains unknown.",
+                    "An unknown number of civilians were killed or injured in the attack.",
+                    "patients suffering from fevers of unknown origin",
+                    "unknown to somebody/something a species of insect hitherto unknown to science",
+                    "His whereabouts were quite unknown during this period.",
+                    "She departed for parts unknown (= nobody knew where she was going).",
+                    "These sites remain largely unknown to the British public."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "not famous or well known",
+                "examples": [
+                    "She was then still relatively unknown.",
+                    "The author is virtually unknown outside Poland.",
+                    "a film with a largely unknown cast",
+                    "an unknown actor"
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "never happening or existing",
+                "examples": [
+                    "unknown in… The disease is as yet unknown in Europe (= there have been no cases there).",
+                    "it is unknown for somebody/something to do something It was not unknown for people to have to wait several hours (= it happened sometimes).",
+                    "It is virtually unknown for foxes to attack anyone.",
+                    "a period of democratic development unknown in their country until now"
+                ]
+            },
+            {
+                "sense_index": 4,
+                "definition": "a person or thing whose qualities or abilities are not yet known",
+                "examples": [
+                    ""
+                ]
+            },
+            {
+                "sense_index": 5,
+                "definition": "without the person mentioned being aware of it",
+                "examples": [
+                    "Unknown to me, he had already signed the agreement."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "unless",
+        "level": "B1",
+        "pos": "conjunction",
+        "us_audio": "unless_us.mp3",
+        "uk_audio": "unless_uk.mp3",
+        "us_phonetic": "/ənˈles/",
+        "uk_phonetic": "/ənˈles/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "used to say that something can only happen or be true in a particular situation",
+                "examples": [
+                    "You won't get paid for time off unless you have a doctor's note.",
+                    "I won't tell them—not unless you say I can.",
+                    "Unless I'm mistaken, she was back at work yesterday.",
+                    "He hasn't got any hobbies—unless you call watching TV a hobby."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "used to give the only situation in which something will not happen or be true",
+                "examples": [
+                    "I sleep with the window open unless it's really cold.",
+                    "Unless something unexpected happens, I'll see you tomorrow.",
+                    "Have a cup of tea—unless you'd prefer a cold drink?"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "unlike",
+        "level": "B1",
+        "pos": "preposition",
+        "us_audio": "unlike_us.mp3",
+        "uk_audio": "unlike_uk.mp3",
+        "us_phonetic": "/ˌʌnˈlaɪk/",
+        "uk_phonetic": "/ˌʌnˈlaɪk/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "different from a particular person or thing",
+                "examples": [
+                    "Music is quite unlike any other art form.",
+                    "The sound was not unlike that of birds singing."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "used to contrast somebody/something with another person or thing",
+                "examples": [
+                    "Unlike most systems, this one is very easy to install.",
+                    "This survey highlights a number of differences in the way that teenage boys and girls in the UK spend their free time.",
+                    "One of the main differences between the girls and the boys who took part in the research was the way in which they use the internet.",
+                    "Unlike the girls, who use the internet mainly to keep in touch with friends, the boys questioned in this survey tend to use the internet for playing computer games.",
+                    "The girls differ from the boys in that they tend to spend more time keeping in touch with friends on the phone or on social networking websites.",
+                    "Compared to the boys, the girls spend much more time chatting to friends on the phone.",
+                    "On average the girls spend four hours a week chatting to friends on the phone. In contrast, very few of the boys spend more than five minutes a day talking to their friends in this way.",
+                    "The boys prefer competitive sports and computer games, whereas/while the girls seem to enjoy more cooperative activities, such as shopping with friends.",
+                    "When the girls go shopping, they mainly buy clothes and cosmetics. The boys, on the other hand, tend to purchase computer games or gadgets."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "not typical of somebody/something",
+                "examples": [
+                    "It's very unlike him to be so late."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "unlikely",
+        "level": "B1",
+        "pos": "adjective",
+        "us_audio": "unlikely_us.mp3",
+        "uk_audio": "unlikely_uk.mp3",
+        "us_phonetic": "/ʌnˈlaɪkli/",
+        "uk_phonetic": "/ʌnˈlaɪkli/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "not likely to happen; not probable",
+                "examples": [
+                    "unlikely to do something The project seemed unlikely to succeed.",
+                    "Of course, such an event is very unlikely to happen.",
+                    "it is unlikely (that…) It was highly unlikely that the gunshot wound was self-inflicted.",
+                    "It is extremely unlikely that the new owner would want to make people redundant.",
+                    "It looks unlikely that prices will fall.",
+                    "It's most (= very) unlikely that she'll arrive before seven.",
+                    "Problems with the evidence made it unlikely that he would ever be prosecuted.",
+                    "In the unlikely event of a problem arising, please contact the hotel manager.",
+                    "It's pretty much inevitable that prices will go up this year.",
+                    "I think it's likely to rain this afternoon.",
+                    "I’m probably going to be away then.",
+                    "I guess there's a fifty per cent chance that they'll say no.",
+                    "It's unlikely, but not totally impossible, I suppose.",
+                    "They can't possibly be serious about buying a boat!",
+                    "It can't really be all that difficult, can it?",
+                    "Let's start without them. They're bound to be late.",
+                    "An economic collapse is inherently unlikely.",
+                    "He thought it unlikely that she would refuse.",
+                    "an unlikely scenario"
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "not the person, thing or place that you would normally think of or expect",
+                "examples": [
+                    "He seems a most unlikely candidate for the job.",
+                    "They have built hotels in the most unlikely places."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "difficult to believe",
+                "examples": [
+                    "She gave me an unlikely explanation for her behaviour."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "unnecessary",
+        "level": "B1",
+        "pos": "adjective",
+        "us_audio": "unnecessary_us.mp3",
+        "uk_audio": "unnecessary_uk.mp3",
+        "us_phonetic": "/ʌnˈnesəseri/",
+        "uk_phonetic": "/ʌnˈnesəsəri/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "not needed; more than is needed",
+                "examples": [
+                    "They were found guilty of causing unnecessary suffering to animals.",
+                    "All this fuss is totally unnecessary.",
+                    "it is unnecessary to do something It was unnecessary to carry out more stringent safety testing.",
+                    "it is unnecessary for somebody/something to do something They argued that it was unnecessary for government to regulate the industry.",
+                    "Don't take any unnecessary risks.",
+                    "Cigarette smoking causes 450,000 unnecessary deaths every year.",
+                    "unnecessary expense",
+                    "Antibiotics should be unnecessary for most patients with a sore throat.",
+                    "She gave her parents unnecessary worry when she forgot to call them.",
+                    "The police stand accused of the use of wholly unnecessary violence during the arrest.",
+                    "the possession of items strictly unnecessary to survival",
+                    "an unnecessary war",
+                    "Critics of the mayor denounced the idea as unnecessary for the city"
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "not needed in the situation and likely to be offensive",
+                "examples": [
+                    "That last comment was a little unnecessary, wasn't it?",
+                    "That was quite unnecessary and I want you to apologize."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "unpleasant",
+        "level": "B1",
+        "pos": "adjective",
+        "us_audio": "unpleasant_us.mp3",
+        "uk_audio": "unpleasant_uk.mp3",
+        "us_phonetic": "/ʌnˈpleznt/",
+        "uk_phonetic": "/ʌnˈpleznt/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "not pleasant or comfortable",
+                "examples": [
+                    "an unpleasant experience/surprise/task",
+                    "unpleasant to do something The minerals in the water made it unpleasant to drink.",
+                    "It can be unpleasant to sit next to a group of people arguing.",
+                    "unpleasant for somebody to do something It must have been unpleasant for her neighbours to be exposed to the constant loud music.",
+                    "Torrential made conditions unpleasant for both players and spectators.",
+                    "What then took place was a deeply unpleasant attack.",
+                    "an unpleasant truth/fact/reality/consequence",
+                    "an unpleasant feeling/sensation/memory",
+                    "an unpleasant smell/odour/taste",
+                    "His clothes smelled most unpleasant.",
+                    "The overall feeling was a strange mixture of sensations, not altogether unpleasant.",
+                    "tests which are unpleasant for patients",
+                    "There's an unpleasant smell coming from that cupboard."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "not kind, friendly or polite",
+                "examples": [
+                    "unpleasant to somebody He was very unpleasant to me.",
+                    "unpleasant about somebody/something You don't have to be so unpleasant about it. I said I was sorry.",
+                    "She said some very unpleasant things about you.",
+                    "a thoroughly unpleasant man",
+                    "There was an unpleasant atmosphere in the room.",
+                    "Things started to get unpleasant when the police were called."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "until",
+        "level": "A1",
+        "pos": "conjunction",
+        "us_audio": "until_us.mp3",
+        "uk_audio": "until_uk.mp3",
+        "us_phonetic": "/ənˈtɪl/",
+        "uk_phonetic": "/ənˈtɪl/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "up to the point in time or the event mentioned",
+                "examples": [
+                    "Let's wait until the rain stops.",
+                    "Until she spoke I hadn't realized she wasn't English.",
+                    "You're not going out until you've finished this.",
+                    "Until now I have always lived alone.",
+                    "They moved here in 2009. Until then they'd always been in the London area.",
+                    "He continued working up until his death.",
+                    "The street is full of traffic from morning till night.",
+                    "You can stay on the bus until London (= until you reach London)."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "until",
+        "level": "A1",
+        "pos": "preposition",
+        "us_audio": "until_us.mp3",
+        "uk_audio": "until_uk.mp3",
+        "us_phonetic": "/ənˈtɪl/",
+        "uk_phonetic": "/ənˈtɪl/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "up to the point in time or the event mentioned",
+                "examples": [
+                    "Let's wait until the rain stops.",
+                    "Until she spoke I hadn't realized she wasn't English.",
+                    "You're not going out until you've finished this.",
+                    "Until now I have always lived alone.",
+                    "They moved here in 2009. Until then they'd always been in the London area.",
+                    "He continued working up until his death.",
+                    "The street is full of traffic from morning till night.",
+                    "You can stay on the bus until London (= until you reach London)."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "unusual",
+        "level": "A2",
+        "pos": "adjective",
+        "us_audio": "unusual_us.mp3",
+        "uk_audio": "unusual_uk.mp3",
+        "us_phonetic": "/ʌnˈjuːʒuəl/",
+        "uk_phonetic": "/ʌnˈjuːʒuəl/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "different from what is usual or normal",
+                "examples": [
+                    "The case is highly unusual.",
+                    "Police then took the unusual step of publishing the names and pictures of the two suspects.",
+                    "it is unusual for somebody/something to do something It's not unusual for young doctors to work a 70-hour week (= it happens often).",
+                    "It's unusual for the trees to flower so early.",
+                    "it is unusual to do something It was a bit unusual to see her up and about before nine in the morning.",
+                    "She has a very unusual name.",
+                    "She hadn't noticed anything unusual about Susan's behaviour.",
+                    "It was considered unusual at the time for a woman to study medicine.",
+                    "It's not at all unusual to feel very tired in the early months of pregnancy.",
+                    "The organization is unusual in several respects.",
+                    "This is a highly unusual case.",
+                    "He's a man of unusual strength and courage.",
+                    "He's a writer with an unusual sensitivity to the differences between past and present.",
+                    "If you have an unusual hobby you would like to share with our readers, write to…",
+                    "It was unusual to see anyone out on the streets at this hour.",
+                    "It's highly unusual for her to be so late.",
+                    "The best teachers had enthusiasm and an unusual energy and commitment.",
+                    "The conference has generated an unusual degree of interest.",
+                    "The house has several unusual but interesting features.",
+                    "The new chairman has an unusual breadth of experience.",
+                    "The painter reveals unusual skill in representing three-dimensional objects."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "different from other similar things and therefore interesting and attractive",
+                "examples": [
+                    "an unusual colour",
+                    "Are you looking for an unusual gift idea this Christmas?",
+                    "their unusual mix of funk, rock, hip hop, jazz and techno"
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "a category of very severe punishment that is banned under US law",
+                "examples": [
+                    "This important case confronts the issue of what constitutes cruel and unusual punishment.",
+                    "Detainees are subjected to malnutrition, forced labor, and to other cruel and unusual punishments."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "up",
+        "level": "A1",
+        "pos": "adverb",
+        "us_audio": "up_us.mp3",
+        "uk_audio": "up_uk.mp3",
+        "us_phonetic": "/ʌp/",
+        "uk_phonetic": "/ʌp/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "towards or in a higher position",
+                "examples": [
+                    "He jumped up from his chair.",
+                    "Your mum said you were up here (= upstairs).",
+                    "The sun was already up (= had risen) when they set off.",
+                    "They live up in the mountains.",
+                    "It didn't take long to put the tent up.",
+                    "You look nice with your hair up (= arranged on top of or at the back of your head).",
+                    "Lay the cards face up (= facing upwards) on the table.",
+                    "Up you come! (= said when lifting a child)",
+                    "The car was up on blocks.",
+                    "I was up on deck at first light.",
+                    "Two men were up on the roof, repairing a leak.",
+                    "I pinned the notice up on the wall.",
+                    "She tries to stay under water but she floats back up."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "to or at a higher level",
+                "examples": [
+                    "She turned the volume up.",
+                    "Prices are still going up (= rising).",
+                    "United were 3–1 up at half-time.",
+                    "The wind is getting up (= blowing more strongly).",
+                    "Sales are well up on last year.",
+                    "Student numbers in English language schools in this country increased from 66 000 in 2018 to just over 84 000 in 2019.",
+                    "The number of students increased by almost 30 per cent compared with the previous year.",
+                    "Student numbers shot up/increased dramatically in 2019.",
+                    "The proportion of Spanish students rose sharply from 5 per cent in 2018 to 14 per cent in 2019.",
+                    "There was a significant rise in student numbers in 2019.",
+                    "The 2019 figure was 84 000, an increase of 28 per cent on the previous year.",
+                    "The 2019 figure was 84 000, 28 per cent up on the previous year.",
+                    "As the chart shows, this can partly be explained by a dramatic increase in students from Spain."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "to the place where somebody/something is",
+                "examples": [
+                    "A car drove up and he got in.",
+                    "She went straight up to the door and knocked loudly."
+                ]
+            },
+            {
+                "sense_index": 4,
+                "definition": "out of bed",
+                "examples": [
+                    "I stayed up late (= did not go to bed until late) last night.",
+                    "(British English) He's up and about again after his illness."
+                ]
+            },
+            {
+                "sense_index": 5,
+                "definition": "to or at an important place, especially a large city",
+                "examples": [
+                    "We're going up to New York for the day.",
+                    "(British English, formal) His son's up at Oxford (= Oxford University)."
+                ]
+            },
+            {
+                "sense_index": 6,
+                "definition": "to a place in the north of a country; further north than somewhere else",
+                "examples": [
+                    "They've moved up north.",
+                    "We drove up to Inverness to see my father.",
+                    "I'm up there almost every other weekend",
+                    "Up here in Liverpool things are different."
+                ]
+            },
+            {
+                "sense_index": 7,
+                "definition": "completely",
+                "examples": [
+                    "We ate all the food up.",
+                    "The stream has dried up."
+                ]
+            },
+            {
+                "sense_index": 8,
+                "definition": "so as to be finished or closed",
+                "examples": [
+                    "I have some paperwork to finish up.",
+                    "Do your coat up; it's cold."
+                ]
+            },
+            {
+                "sense_index": 9,
+                "definition": "into pieces or parts",
+                "examples": [
+                    "She tore the paper up.",
+                    "They've had the road up (= with the surface broken or removed) to lay some pipes.",
+                    "How shall we divide up the work?"
+                ]
+            },
+            {
+                "sense_index": 10,
+                "definition": "so as to be formed or brought together",
+                "examples": [
+                    "The government agreed to set up a committee of inquiry.",
+                    "She gathered up her belongings."
+                ]
+            },
+            {
+                "sense_index": 11,
+                "definition": "finished; over",
+                "examples": [
+                    "Time's up. Stop writing and hand in your papers."
+                ]
+            },
+            {
+                "sense_index": 12,
+                "definition": "used to say that something is happening, especially something unusual or unpleasant",
+                "examples": [
+                    "I could tell something was up by the looks on their faces.",
+                    "What's up? (= What is the matter?)",
+                    "What's up with him? He looks furious.",
+                    "Is anything up? You can tell me."
+                ]
+            },
+            {
+                "sense_index": 13,
+                "definition": "about to happen, be discussed, etc.",
+                "examples": [
+                    "Next up in our top ten is a new release by Ariana Grande.",
+                    "Up after the break we will be introducing our mystery guest!"
+                ]
+            },
+            {
+                "sense_index": 14,
+                "definition": "to be somebody’s duty or responsibility; to be for somebody to decide",
+                "examples": [
+                    "It's not up to you to tell me how to do my job.",
+                    "Shall we eat out or stay in? It's up to you."
+                ]
+            },
+            {
+                "sense_index": 15,
+                "definition": "to be of poor quality; to not be very good",
+                "examples": [
+                    "His work isn't up to much."
+                ]
+            },
+            {
+                "sense_index": 16,
+                "definition": "facing problems or opposition",
+                "examples": [
+                    "Teachers are up against some major problems these days.",
+                    "She's really up against it (= in a difficult situation)."
+                ]
+            },
+            {
+                "sense_index": 17,
+                "definition": "moving upwards and downwards",
+                "examples": [
+                    "The boat bobbed up and down on the water."
+                ]
+            },
+            {
+                "sense_index": 18,
+                "definition": "in one direction and then in the opposite direction",
+                "examples": [
+                    "She was pacing up and down in front of her desk."
+                ]
+            },
+            {
+                "sense_index": 19,
+                "definition": "sometimes good and sometimes bad",
+                "examples": [
+                    "My relationship with him was up and down."
+                ]
+            },
+            {
+                "sense_index": 20,
+                "definition": "if you swear up and down that something is true, you say that it is definitely true",
+                "examples": [
+                    ""
+                ]
+            },
+            {
+                "sense_index": 21,
+                "definition": "working; being used",
+                "examples": [
+                    "By that time the new system should be up and running."
+                ]
+            },
+            {
+                "sense_index": 22,
+                "definition": "appearing in front of somebody in authority for a judgement to be made about something that you have done",
+                "examples": [
+                    "He came up before the local magistrate for speeding."
+                ]
+            },
+            {
+                "sense_index": 23,
+                "definition": "on offer for something",
+                "examples": [
+                    "The house is up for sale."
+                ]
+            },
+            {
+                "sense_index": 24,
+                "definition": "being considered for something, especially as a candidate",
+                "examples": [
+                    "Two candidates are up for election."
+                ]
+            },
+            {
+                "sense_index": 25,
+                "definition": "willing to take part in a particular activity",
+                "examples": [
+                    "We're going clubbing tonight. Are you up for it?"
+                ]
+            },
+            {
+                "sense_index": 26,
+                "definition": "among or almost the best, worst, most important, etc.",
+                "examples": [
+                    "It may not have been the worst week of my life but it's up there.",
+                    "OK, it's not my absolute dream, but it's up there.",
+                    "These people can’t live without the internet—it’s up there with air and water."
+                ]
+            },
+            {
+                "sense_index": 27,
+                "definition": "as far as a particular number, level, etc.",
+                "examples": [
+                    "I can take up to four people (= but no more than four) in my car.",
+                    "The temperature went up to 35°C."
+                ]
+            },
+            {
+                "sense_index": 28,
+                "definition": "not further or later than something; until something",
+                "examples": [
+                    "Read up to page 100.",
+                    "Up to now he's been very quiet."
+                ]
+            },
+            {
+                "sense_index": 29,
+                "definition": "as high or as good as something",
+                "examples": [
+                    "Her latest book isn't up to her usual standard."
+                ]
+            },
+            {
+                "sense_index": 30,
+                "definition": "physically or mentally capable of something",
+                "examples": [
+                    "He's not up to the job.",
+                    "I don't feel up to going to work today."
+                ]
+            },
+            {
+                "sense_index": 31,
+                "definition": "doing something, especially something bad",
+                "examples": [
+                    "What's she up to?",
+                    "What've you been up to?",
+                    "I'm sure he's up to no good (= doing something bad)."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "up",
+        "level": "A1",
+        "pos": "preposition",
+        "us_audio": "up_us.mp3",
+        "uk_audio": "up_uk.mp3",
+        "us_phonetic": "/ʌp/",
+        "uk_phonetic": "/ʌp/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "to or in a higher position somewhere",
+                "examples": [
+                    "She climbed up the flight of steps.",
+                    "The village is further up the valley."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "along or further along a road or street",
+                "examples": [
+                    "We live just up the road, past the post office."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "towards the place where a river starts",
+                "examples": [
+                    "a cruise up the Rhine"
+                ]
+            },
+            {
+                "sense_index": 4,
+                "definition": "in one direction and then in the opposite direction along something",
+                "examples": [
+                    "I looked up and down the corridor."
+                ]
+            },
+            {
+                "sense_index": 5,
+                "definition": "an offensive way of being rude to somebody, for example because they have said something that makes you angry",
+                "examples": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "word": "update",
+        "level": "B1",
+        "pos": "noun",
+        "us_audio": "update_us.mp3",
+        "uk_audio": "update_uk.mp3",
+        "us_phonetic": "/ˈʌpdeɪt/",
+        "uk_phonetic": "/ˈʌpdeɪt/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "a report or broadcast that gives the most recent information about something; a new version of something containing the most recent information",
+                "examples": [
+                    "They will send you regular updates by email.",
+                    "a news/weather update",
+                    "update on something Now let's get an update on our other big story of the day.",
+                    "The police will give an update on the progress of the investigation tomorrow.",
+                    "The committee agreed to provide an update on the situation at the school",
+                    "Stand by for an update from our White House correspondent.",
+                    "We are expecting an update from the hospital this morning.",
+                    "We will bring you more updates as soon as possible",
+                    "Here's a quick update on the travel situation.",
+                    "I added your name to my update list.",
+                    "I get regular updates by email.",
+                    "The 6 o'clock news provides the latest updates.",
+                    "The report gives an update on the currency crisis.",
+                    "We need an update to the mailing list.",
+                    "We'll have a live update on the storm's progress from the experts.",
+                    "an update on the political crisis"
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "the most recent improvements to a computer program that are sent to users of the program",
+                "examples": [
+                    "software updates",
+                    "How do I get myself set up to receive automatic updates?",
+                    "We recommend checking for security updates regularly.",
+                    "I downloaded the latest updates.",
+                    "update to something the most recent update to the software",
+                    "In Windows you can set up automatic updates.",
+                    "You have to download the update and save it to your hard drive.",
+                    "Google had to release an update for the toolbar."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "update",
+        "level": "B1",
+        "pos": "verb",
+        "us_audio": "update_us.mp3",
+        "uk_audio": "update_uk.mp3",
+        "us_phonetic": "/ˌʌpˈdeɪt/",
+        "uk_phonetic": "/ˌʌpˈdeɪt/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "to make something more modern by adding new parts, etc.",
+                "examples": [
+                    "an updated version of the app",
+                    "It's about time we updated our software.",
+                    "Ensure that your site is updated to the latest version of the software.",
+                    "The program automatically updates your antivirus settings.",
+                    "They have just recently updated their server software."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "to give somebody the most recent information about something; to add the most recent information to something",
+                "examples": [
+                    "update somebody I'll be updating you shortly.",
+                    "update somebody on something I called the office to update them on the day's developments.",
+                    "update something The site tells you when the information was last updated.",
+                    "Our records are regularly updated.",
+                    "Data is automatically updated on a daily basis.",
+                    "update something with something The files are constantly updated with new information.",
+                    "Could you update me on how the work is progressing?",
+                    "The official site is updated on a regular basis.",
+                    "updating all the files manually",
+                    "The road map has been fully updated."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "upon",
+        "level": "B1",
+        "pos": "preposition",
+        "us_audio": "upon_us.mp3",
+        "uk_audio": "upon_uk.mp3",
+        "us_phonetic": "/əˈpɑːn/",
+        "uk_phonetic": "/əˈpɒn/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "Không có định nghĩa",
+                "examples": [
+                    "The decision was based upon two considerations."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "used to emphasize that there is a large number or amount of something",
+                "examples": [
+                    "mile upon mile of dusty road",
+                    "thousands upon thousands of letters"
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "used, especially at the beginning of stories, to mean ‘a long time ago in the past’",
+                "examples": [
+                    "Once upon a time there was a beautiful princess."
+                ]
+            },
+            {
+                "sense_index": 4,
+                "definition": "if something in the future is almost upon you, it is going to arrive or happen very soon",
+                "examples": [
+                    "The summer season was almost upon them again."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "upper",
+        "level": "B2",
+        "pos": "adjective",
+        "us_audio": "upper_us.mp3",
+        "uk_audio": "upper_uk.mp3",
+        "us_phonetic": "/ˈʌpər/",
+        "uk_phonetic": "/ˈʌpə(r)/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "located above something else, especially something of the same type or the other of a pair",
+                "examples": [
+                    "her upper lip",
+                    "the upper floors of the building",
+                    "the upper deck"
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "at or near the top of something",
+                "examples": [
+                    "There is an upper limit of £20 000 spent on any one project.",
+                    "the upper echelons of society",
+                    "a blockage in the throat or upper airway",
+                    "the upper arm/body",
+                    "in the upper left/right corner of the painting",
+                    "the upper part of the ship's hull",
+                    "the upper slopes of the mountain",
+                    "salaries at the upper end of the pay scale"
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "located away from the coast, on high ground or towards the north of an area",
+                "examples": [
+                    "the upper reaches of the river"
+                ]
+            },
+            {
+                "sense_index": 4,
+                "definition": "to get an advantage over somebody so that you are in control of a particular situation",
+                "examples": [
+                    ""
+                ]
+            },
+            {
+                "sense_index": 5,
+                "definition": "to keep calm and hide your feelings when you are in pain or in a difficult situation",
+                "examples": [
+                    "He was taught to keep a stiff upper lip and never to cry in public.",
+                    "Their reaction contrasts sharply with the stiff upper lip of the English."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "upset",
+        "level": "B1",
+        "pos": "adjective",
+        "us_audio": "upset_us.mp3",
+        "uk_audio": "upset_uk.mp3",
+        "us_phonetic": "/ˌʌpˈset/",
+        "uk_phonetic": "/ˌʌpˈset/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "unhappy or disappointed because of something unpleasant that has happened",
+                "examples": [
+                    "I understand how upset you must be feeling.",
+                    "upset about/at/over something There's no point getting upset about it.",
+                    "upset about/at/over doing something He was really upset over not getting the present he wanted from Father Christmas.",
+                    "I was upset at missing all the excitement.",
+                    "upset (that)… She was upset that he had left without saying goodbye.",
+                    "upset with somebody I think she may be a bit upset with you.",
+                    "She was still upset about her divorce.",
+                    "The incident had left him visibly angry and upset."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "an illness in the stomach that makes you feel sick (= want to vomit) or have diarrhoea",
+                "examples": [
+                    "I've been off work with an upset stomach."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "upset",
+        "level": "B1",
+        "pos": "verb",
+        "us_audio": "upset_us.mp3",
+        "uk_audio": "upset_uk.mp3",
+        "us_phonetic": "/ʌpˈset/",
+        "uk_phonetic": "/ʌpˈset/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "to make somebody/yourself feel unhappy, anxious or annoyed",
+                "examples": [
+                    "upset somebody/yourself This decision is likely to upset a lot of people.",
+                    "Try not to let him upset you.",
+                    "Don't upset yourself about it—let's just forget it ever happened.",
+                    "He had clearly been upset by the incident.",
+                    "it upsets somebody that… It upset him that nobody had bothered to tell him about it.",
+                    "it upsets somebody to do something It upsets me to think of her all alone in that big house.",
+                    "I'm sorry—I didn't mean to upset you.",
+                    "Keep the volume down—we don't want to upset the neighbours!",
+                    "She was sensitive and easily upset.",
+                    "She's obviously deeply upset by his behaviour.",
+                    "upset by the death of their pet"
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "to make a plan, situation, etc. go wrong",
+                "examples": [
+                    "He arrived an hour late and upset all our arrangements.",
+                    "Their plans were upset even more by days of torrential rain.",
+                    "The disagreement further upset relations between the two countries."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "to make somebody feel sick (= want to vomit) after they have eaten or drunk something",
+                "examples": [
+                    ""
+                ]
+            },
+            {
+                "sense_index": 4,
+                "definition": "to make something fall over by hitting it by accident",
+                "examples": [
+                    "She stood up suddenly, upsetting a glass of water."
+                ]
+            },
+            {
+                "sense_index": 5,
+                "definition": "to cause problems for somebody or cause their plans, arrangements, etc. to fail",
+                "examples": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "word": "upstairs",
+        "level": "A2",
+        "pos": "adjective",
+        "us_audio": "upstairs_us.mp3",
+        "uk_audio": "upstairs_uk.mp3",
+        "us_phonetic": "/ˌʌpˈsterz/",
+        "uk_phonetic": "/ˌʌpˈsteəz/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "on a floor of a house or other building that is higher than the one that you are on",
+                "examples": [
+                    "an upstairs room/window/bathroom",
+                    "Bob looked up and saw the light in the upstairs bedroom.",
+                    "She rents a small upstairs apartment in a family's house.",
+                    "The restaurant has a great upstairs bar with very comfortable seating."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "upstairs",
+        "level": "A1",
+        "pos": "adverb",
+        "us_audio": "upstairs_us.mp3",
+        "uk_audio": "upstairs_uk.mp3",
+        "us_phonetic": "/ˌʌpˈsterz/",
+        "uk_phonetic": "/ˌʌpˈsteəz/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "up the stairs; on or to a floor of a house or other building higher than the one that you are on",
+                "examples": [
+                    "to run/walk/head upstairs",
+                    "The cat belongs to the people who live upstairs.",
+                    "She went upstairs to get dressed.",
+                    "I carried her bags upstairs.",
+                    "I turned and walked back upstairs."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "upwards",
+        "level": "B2",
+        "pos": "adverb",
+        "us_audio": "upwards_us.mp3",
+        "uk_audio": "upwards_uk.mp3",
+        "us_phonetic": "/ˈʌpwərdz/",
+        "uk_phonetic": "/ˈʌpwədz/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "towards a higher place or position",
+                "examples": [
+                    "Place your hands on the table with the palms facing upwards.",
+                    "We were moving upwards at an incredible speed.",
+                    "A flight of steps led upwards to the front door.",
+                    "He was pointing upwards at the roof.",
+                    "The corners of her mouth curved upwards in amusement."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "towards a higher amount or price",
+                "examples": [
+                    "Bad weather forced the price of fruit upwards.",
+                    "The budget has been revised upwards."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "more than the amount or number mentioned",
+                "examples": [
+                    "You should expect to pay upwards of £50 for a hotel room."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "urban",
+        "level": "B2",
+        "pos": "adjective",
+        "us_audio": "urban_us.mp3",
+        "uk_audio": "urban_uk.mp3",
+        "us_phonetic": "/ˈɜːrbən/",
+        "uk_phonetic": "/ˈɜːbən/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "connected with a town or city",
+                "examples": [
+                    "urban and rural communities",
+                    "urban areas/centres",
+                    "the urban environment/landscape",
+                    "urban development (= the process of building towns and cities or making them larger)",
+                    "urban renewal/regeneration (= the process of improving the buildings, etc. in the poor parts of a town or city)",
+                    "efforts to control urban sprawl (= the spread of city buildings into the countryside)",
+                    "The urban poor feel betrayed by everyone.",
+                    "urban life",
+                    "the urban population",
+                    "people of earlier generations who had not grown up in an urban setting",
+                    "the efficient use of urban space",
+                    "key principles of urban design"
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "connected with types of music such as rhythm and blues, reggae, soul, etc. that are played by black musicians",
+                "examples": [
+                    "today’s urban music scene",
+                    "urban radio shows"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "urge",
+        "level": "B2",
+        "pos": "verb",
+        "us_audio": "urge_us.mp3",
+        "uk_audio": "urge_uk.mp3",
+        "us_phonetic": "/ɜːrdʒ/",
+        "uk_phonetic": "/ɜːdʒ/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "to advise or try hard to persuade somebody to do something",
+                "examples": [
+                    "urge somebody to do something If you ever get the chance to visit this place, I strongly urge you to do so.",
+                    "Police are urging anyone who saw the accident to contact them immediately.",
+                    "She urged him to stay.",
+                    "I urge people to vote yes on May 5.",
+                    "The charity urged the government to reconsider its decision.",
+                    "The authorities urged residents to stay indoors.",
+                    "The NFU is urging its members to support the proposed scheme.",
+                    "The police are urging anyone with new information to come forward.",
+                    "urge that… The report urged that all children be taught to swim.",
+                    "urge (somebody) + speech ‘Why not give it a try?’ she urged (him).",
+                    "We’d recommend you to book your flight early.",
+                    "a recommended price of $50",
+                    "I’d advise you not to tell him.",
+                    "The group does not advocate the use of violence.",
+                    "The situation is dangerous and the UN is urging caution.",
+                    "He has repeatedly urged the government to do something about this.",
+                    "‘Get on with it!’ he urged her impatiently.",
+                    "‘Please come!’ he urged."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "to recommend something strongly",
+                "examples": [
+                    "urge something The situation is dangerous and the UN is urging caution.",
+                    "EU foreign ministers urged an independent inquiry into allegations of human rights violations.",
+                    "urge something on/upon somebody The prime minister is urging restraint on Washington.",
+                    "He urged a tax increase upon congress as a way of damping down consumer spending."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "to make a person or an animal move more quickly and/or in a particular direction, especially by pushing or forcing them",
+                "examples": [
+                    "He urged his horse forward."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "us",
+        "level": "A1",
+        "pos": "pronoun",
+        "us_audio": "us_us.mp3",
+        "uk_audio": "us_uk.mp3",
+        "us_phonetic": "/əs/",
+        "uk_phonetic": "/əs/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "used when the speaker or writer and another or others are the object of a verb or preposition, or after the verb be",
+                "examples": [
+                    "She gave us a picture as a wedding present.",
+                    "We'll take the dog with us.",
+                    "Hello, it's us back again."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "me",
+                "examples": [
+                    "Give us the newspaper, will you?"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "use",
+        "level": "A2",
+        "pos": "noun",
+        "us_audio": "use_us.mp3",
+        "uk_audio": "use_uk.mp3",
+        "us_phonetic": "/juːs/",
+        "uk_phonetic": "/juːs/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "the act of using something; the state of being used",
+                "examples": [
+                    "A ban was imposed on the use of chemical weapons.",
+                    "You can't justify the use of military force.",
+                    "I'm not sure that this is the most valuable use of my time.",
+                    "for… use These videos are intended for classroom use.",
+                    "for use in something The software is designed for use in schools.",
+                    "in use The chapel was built in the 12th century and is still in use today.",
+                    "for the use of somebody (formal) The bar is for the use of members only.",
+                    "Drug use in this age group is on the increase.",
+                    "Holding a lavish party was not the best use of scarce funds.",
+                    "I don't recommend the use of chemicals in home gardens.",
+                    "If side effects occur, discontinue use.",
+                    "Only half the land was fit for immediate use.",
+                    "The CD is intended for use as background music.",
+                    "The layout of the furniture makes optimum use of the space available.",
+                    "The phone is in constant use.",
+                    "The prints remain on file for future use.",
+                    "The study showed that 75% of people favoured the use of ID cards.",
+                    "There is a high risk of developing side effects from prolonged use of the drug.",
+                    "This antiseptic is for external use only.",
+                    "This model has been designed for greater ease of use.",
+                    "This phone number is only for use in an emergency.",
+                    "This room is now ready for use.",
+                    "This software is no longer in common use.",
+                    "a campaign to encourage wider use of public transport",
+                    "a style of writing with an excessive use of metaphor",
+                    "an article with a judicious use of examples",
+                    "an efficient use of resources",
+                    "fire extinguishers for home use",
+                    "for the exclusive use of club members",
+                    "lifetime use of cigarettes",
+                    "the daily use of a deodorant",
+                    "the fair use of copyrighted material",
+                    "the first country to ban the use of antidepressants in children",
+                    "the sustainable use of natural resources"
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "a purpose for which something is used; a way in which something is or can be used",
+                "examples": [
+                    "The plant has various medical uses.",
+                    "This chemical has a wide range of industrial uses.",
+                    "use for something Can you find a use for this old table?",
+                    "I'm sure you'll think of a use for it.",
+                    "What use is a mouse without a computer?",
+                    "The product has several potential uses.",
+                    "This herb has a variety of uses.",
+                    "Water was reserved for drinking or medicinal uses.",
+                    "Commercial activity on the site will constitute a change of use."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "the right or opportunity to use something, for example something that belongs to somebody else",
+                "examples": [
+                    "I have the use of the car this week.",
+                    "They denied us use of the college library.",
+                    "Guests have free use of the hotel pool.",
+                    "We gave them the use of our house while we were away."
+                ]
+            },
+            {
+                "sense_index": 4,
+                "definition": "the ability to use your mind or body",
+                "examples": [
+                    "He lost the use of his legs (= became unable to walk) in an accident.",
+                    "After a while she regained the use of her fingers.",
+                    "Since his stroke he hasn't had the use of his left hand.",
+                    "the full use of your mental faculties"
+                ]
+            },
+            {
+                "sense_index": 5,
+                "definition": "a particular word or phrase, used with a particular meaning",
+                "examples": [
+                    "The phrase ‘all told’ comes from an old use of the verb ‘tell’, meaning ‘to count’."
+                ]
+            },
+            {
+                "sense_index": 6,
+                "definition": "to not be useful or helpful",
+                "examples": [
+                    "You can throw those away—they're no use to anyone.",
+                    "It's of no practical use to me."
+                ]
+            },
+            {
+                "sense_index": 7,
+                "definition": "to be useful",
+                "examples": [
+                    "Can I be of any use (= can I help)?",
+                    "Could this old coat be of use to you?"
+                ]
+            },
+            {
+                "sense_index": 8,
+                "definition": "to start/stop being used",
+                "examples": [
+                    "When did this word come into common use?",
+                    "These pesticides are gradually going out of use.",
+                    "The expression went out of use some time ago.",
+                    "a technology which came into use at the end of the last century"
+                ]
+            },
+            {
+                "sense_index": 9,
+                "definition": "to dislike somebody",
+                "examples": [
+                    "I've no use for people who don't make an effort."
+                ]
+            },
+            {
+                "sense_index": 10,
+                "definition": "to not need something",
+                "examples": [
+                    "Living underground and having little use for eyes, moles are virtually blind.",
+                    "I have no use for my golf clubs any more."
+                ]
+            },
+            {
+                "sense_index": 11,
+                "definition": "to be useful sometimes",
+                "examples": [
+                    "I know you don't like him, but he has his uses."
+                ]
+            },
+            {
+                "sense_index": 12,
+                "definition": "used to say that there is no point in doing something because it will not be successful or have a good result",
+                "examples": [
+                    "What's the use of worrying about it?",
+                    "It's no use—I can't persuade her.",
+                    "It's no use running—the train has already gone.",
+                    "What's the use of denying it?"
+                ]
+            },
+            {
+                "sense_index": 13,
+                "definition": "to use something/somebody, especially in order to get an advantage",
+                "examples": [
+                    "We could make better use of our resources.",
+                    "to make effective use of technology",
+                    "You should make use of your contacts.",
+                    "We made use of the car while you were away.",
+                    "He made full use of the opportunity to travel."
+                ]
+            },
+            {
+                "sense_index": 14,
+                "definition": "to be able to use something for a purpose, and get an advantage from doing so",
+                "examples": [
+                    "She'll be able to put her languages to good use in her new job.",
+                    "Don't throw that box away—I'm sure I could put it to some use."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "use",
+        "level": "A1",
+        "pos": "verb",
+        "us_audio": "use_us.mp3",
+        "uk_audio": "use_uk.mp3",
+        "us_phonetic": "/juːz/",
+        "uk_phonetic": "/juːz/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "to do something with a machine, a method, an object, etc. for a particular purpose",
+                "examples": [
+                    "use something Can I use the photocopier?",
+                    "He makes beer using traditional methods.",
+                    "The applicator makes the glue easy to use.",
+                    "Have you ever used this software before?",
+                    "The oven looked as if it had never been used.",
+                    "How often do you use (= travel by) the bus?",
+                    "They were able to achieve a settlement without using military force.",
+                    "a little-used path through the wood",
+                    "a widely used technique for assessing the strength of metals",
+                    "I have some information you may be able to use (= to get an advantage from).",
+                    "use something for something We used a carrot for the snowman’s nose.",
+                    "use something for doing something chemicals that are used for cleaning",
+                    "use something to do something Police used tear gas to disperse the crowds.",
+                    "This tree bark can be used to make a black dye.",
+                    "use something as something The building is currently being used as a warehouse.",
+                    "You can't keep using your bad back as an excuse.",
+                    "use something in something The drug is also used in the treatment of cancer.",
+                    "Candidates are not allowed to use dictionaries in the exam.",
+                    "Credit cards, used appropriately, are a great financial tool.",
+                    "Do you habitually use display screen equipment in your job?",
+                    "Manufacturers tend to use disks made in the US.",
+                    "The church is sometimes used as a concert venue.",
+                    "The tennis court is sometimes used as a car park.",
+                    "These garden shears are lightweight and easy to use.",
+                    "a technique that is primarily used in eye surgery",
+                    "an etching technique used exclusively by Picasso",
+                    "Don't keep asking me what to do—just use your common sense!",
+                    "You should learn to use your time more efficiently."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "to take a particular amount of a liquid, substance, etc. in order to achieve or make something",
+                "examples": [
+                    "This type of heater uses a lot of electricity.",
+                    "I hope you haven't used all the milk.",
+                    "This paint is very expensive, so please use it sparingly."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "to say or write particular words or a particular type of language",
+                "examples": [
+                    "use something The poem uses simple language.",
+                    "That's a word I never use.",
+                    "You have to use the past tense.",
+                    "‘Ethics’ and ‘morality’ are often used interchangeably.",
+                    "use something to do something ‘Pop art’ is a term used to describe a movement that began in the 1950s."
+                ]
+            },
+            {
+                "sense_index": 4,
+                "definition": "to be kind, friendly, etc. to somebody with the intention of getting an advantage for yourself from them",
+                "examples": [
+                    "Can't you see he's just using you for his own ends?",
+                    "I felt used."
+                ]
+            },
+            {
+                "sense_index": 5,
+                "definition": "to take illegal drugs",
+                "examples": [
+                    "Most of the inmates have used drugs at some point in their lives.",
+                    "(slang) She's been using since she was 13.",
+                    "the factors that make people likely to use heroin"
+                ]
+            },
+            {
+                "sense_index": 6,
+                "definition": "used to say that you would like to have something very much",
+                "examples": [
+                    "I think we could all use a drink after that!"
+                ]
+            },
+            {
+                "sense_index": 7,
+                "definition": "used to tell somebody to think about something, especially when they have asked for your opinion or said something stupid",
+                "examples": [
+                    "‘Why don't you want to see him again?’ ‘Oh, use your head!’"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "used",
+        "level": "B1",
+        "pos": "adjective",
+        "us_audio": "used_us.mp3",
+        "uk_audio": "used_uk.mp3",
+        "us_phonetic": "/juːst/",
+        "uk_phonetic": "/juːst/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "familiar with something because you do it or experience it often",
+                "examples": [
+                    "used to doing something I'm not used to eating so much at lunchtime.",
+                    "used to somebody/something doing something He was used to people asking him for autographs.",
+                    "I'm used to things going wrong in my life.",
+                    "I'm so used to answering this question, sometimes it's automatic.",
+                    "used to somebody/something I found the job tiring at first but I soon got used to it.",
+                    "Maybe I just need some time to get used to the idea of being a mother",
+                    "She had gradually grown used to him.",
+                    "I used to go to football matches every Saturday with my dad.",
+                    "We’re used to the noise from the traffic now.",
+                    "I’m used to getting up early.",
+                    "Don’t worry—you’ll soon get used to his sense of humour.",
+                    "I didn’t think I could ever get used to living in a big city after living in the country."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "used to",
+        "level": "A2",
+        "pos": "modal verb",
+        "us_audio": "used to_us.mp3",
+        "uk_audio": "used to_uk.mp3",
+        "us_phonetic": "/ˈjuːst tə/",
+        "uk_phonetic": "/ˈjuːst tə/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "used to say that something happened continuously or frequently during a period in the past",
+                "examples": [
+                    "I used to live in London.",
+                    "That's what my father always used to say.",
+                    "I didn't use to like him much when we were at school.",
+                    "Didn't you use to have long hair?",
+                    "I used to think that it would be a great idea to live there.",
+                    "We used to go sailing on the lake in summer.",
+                    "She used to work for a large insurance company.",
+                    "I used to play a lot of football.",
+                    "You used to see a lot of her, didn't you?",
+                    "I used to go there every Saturday.",
+                    "I use to go there every Saturday.",
+                    "Did she use to have long hair?",
+                    "He can speak three languages.",
+                    "She will try and visit tomorrow.",
+                    "You must find a job.",
+                    "You ought to stop smoking.",
+                    "I used to smoke but I gave up two years ago.",
+                    "Can I invite Mary?",
+                    "Should I have invited Mary?",
+                    "I used to go to football matches every Saturday with my dad.",
+                    "We’re used to the noise from the traffic now.",
+                    "I’m used to getting up early.",
+                    "Don’t worry—you’ll soon get used to his sense of humour.",
+                    "I didn’t think I could ever get used to living in a big city after living in the country."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "useful",
+        "level": "A1",
+        "pos": "adjective",
+        "us_audio": "useful_us.mp3",
+        "uk_audio": "useful_uk.mp3",
+        "us_phonetic": "/ˈjuːsfl/",
+        "uk_phonetic": "/ˈjuːsfl/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "that can help you to do or achieve what you want",
+                "examples": [
+                    "a useful tool",
+                    "useful information",
+                    "The Minister said that a meeting with the strikers would serve no useful purpose.",
+                    "The website turned out to be a really useful resource.",
+                    "useful to somebody He might be useful to us.",
+                    "useful for somebody/something The mortgages are especially useful for people with fluctuating incomes.",
+                    "useful for doing something These plants are particularly useful for brightening up shady areas.",
+                    "it is useful to do something It can be useful to write a short summary of your argument first.",
+                    "it is useful for somebody to do something It is useful for students to receive constructive feedback on their progress.",
+                    "useful in something These drugs are useful in the treatment of many forms of cancer.",
+                    "useful in doing something Here are some tips that may be useful in helping you deal with your problem.",
+                    "Don't just sit watching television—make yourself useful (= be helpful).",
+                    "This information could prove useful.",
+                    "Both scholars and general readers will find the book extremely useful.",
+                    "Your knowledge of German may come in useful (= be useful in a particular situation).",
+                    "Some products can be recycled at the end of their useful life.",
+                    "Internet booking is useful for people who want a short break.",
+                    "It needs to give more information to be truly useful.",
+                    "It was useful as a short-term measure.",
+                    "She has made an exceptionally useful contribution to the debate.",
+                    "She told Fred to make himself useful.",
+                    "She was very useful in dealing with foreign visitors.",
+                    "The same information is equally useful when negotiating.",
+                    "The subject is practically useful and will stand you in good stead when looking for a job.",
+                    "This method has proved the most generally useful.",
+                    "This tool is useful for a variety of purposes.",
+                    "an undoubtedly useful skill",
+                    "information which will be useful to new mothers",
+                    "some leaflets which you might find useful",
+                    "to provide rewarding and socially useful employment",
+                    "useful for people who need a short break",
+                    "Regular tests are useful for monitoring progress.",
+                    "a useful book/​gadget"
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "good; of the right standard",
+                "examples": [
+                    "He's a very useful player."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "user",
+        "level": "A2",
+        "pos": "noun",
+        "us_audio": "user_us.mp3",
+        "uk_audio": "user_uk.mp3",
+        "us_phonetic": "/ˈjuːzər/",
+        "uk_phonetic": "/ˈjuːzə(r)/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "a person or thing that uses something",
+                "examples": [
+                    "road users",
+                    "The service allows users to download and read a wide collection of books for no charge.",
+                    "computer/internet/mobile phone users",
+                    "wheelchair users",
+                    "Service users can now get help 365 days a year.",
+                    "Our advice to companies and home users is to waste no time in implementing this security patch.",
+                    "a site with more than 2 million registered users",
+                    "Many of the centre's regular users were mothers with young children.",
+                    "The average user spends 40 minutes a day on unnecessary email.",
+                    "We're always working to improve the user experience.",
+                    "We're expecting the user base to expand significantly.",
+                    "Although the sites don't charge user fees, some make money by selling ads.",
+                    "The site enables users to access census data.",
+                    "The service is designed to let users share large files.",
+                    "user of something The main users of this service are government departments.",
+                    "A special entrance is being built for wheelchair users.",
+                    "Existing users will be able to upgrade their software at a reduced price.",
+                    "The larger users of the service have to pay more.",
+                    "These security holes allow malicious users to hijack your account.",
+                    "They offer a short course to first-time users of the software.",
+                    "We'll have about 500 million wireless users accessing the internet.",
+                    "a casual user of cocaine",
+                    "a computer intended for business and home users",
+                    "a survey of health service users",
+                    "heavy users of credit",
+                    "a user manual",
+                    "Users need to be suspicious of all unsolicited email.",
+                    "new security features designed to help users protect their accounts against hackers"
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "a person who uses illegal drugs",
+                "examples": [
+                    ""
+                ]
+            }
+        ]
+    },
+    {
+        "word": "usual",
+        "level": "A2",
+        "pos": "adjective",
+        "us_audio": "usual_us.mp3",
+        "uk_audio": "usual_uk.mp3",
+        "us_phonetic": "/ˈjuːʒuəl/",
+        "uk_phonetic": "/ˈjuːʒuəl/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "that happens or is done most of the time or in most cases",
+                "examples": [
+                    "This is the usual way of doing it.",
+                    "He came home later than usual.",
+                    "He didn't sound like his usual happy self.",
+                    "She sat in her usual seat at the back.",
+                    "They asked me why I wanted the job and why I thought I was suitable—you know, the usual thing.",
+                    "You need to enter all the usual stuff—name, address, credit card details.",
+                    "Our usual practice is to ask for references from previous employers.",
+                    "She made all the usual excuses.",
+                    "usual for somebody/something This weather is not usual for this time of year.",
+                    "it is usual to do something It is usual to start a speech by thanking everybody for coming.",
+                    "it is usual for somebody/something to do something It is not usual for a head of government to attend a meeting like this.",
+                    "usual in somebody/something This kind of behaviour is far from usual in children of this age.",
+                    "It's usual for the man to propose marriage.",
+                    "It's very usual for people to leave books and papers behind.",
+                    "The metal can then be painted in the usual way.",
+                    "He was sitting in his usual chair by the window.",
+                    "It is usual for the employer to pay the costs.",
+                    "She arrived at the usual time."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "what usually happens; what you usually have, especially the drink that you usually have",
+                "examples": [
+                    ""
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "in the way that is normal or usual; as often happens",
+                "examples": [
+                    "Everyone blamed me as per usual."
+                ]
+            },
+            {
+                "sense_index": 4,
+                "definition": "in the same way as what happens most of the time or in most cases",
+                "examples": [
+                    "Steve, as usual, was the last to arrive.",
+                    "As usual at that hour, the place was deserted.",
+                    "Despite her problems, she carried on working as usual.",
+                    "Despite the problems staff arrived for work as usual."
+                ]
+            },
+            {
+                "sense_index": 5,
+                "definition": "a way of saying that things will continue as normal despite a difficult situation",
+                "examples": [
+                    "It's business as usual at the factory, even while investigators sift through the bomb wreckage."
+                ]
+            },
+            {
+                "sense_index": 6,
+                "definition": "the people you would usually expect to do something or be included in something",
+                "examples": [
+                    "She thanked all the usual suspects in her acceptance speech: her family, the director, the cast and the crew."
+                ]
+            }
+        ]
+    },
+    {
+        "word": "usually",
+        "level": "A1",
+        "pos": "adverb",
+        "us_audio": "usually_us.mp3",
+        "uk_audio": "usually_uk.mp3",
+        "us_phonetic": "/ˈjuːʒuəli/",
+        "uk_phonetic": "/ˈjuːʒuəli/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "in the way that is usual or normal; most often",
+                "examples": [
+                    "How long does the journey usually take?",
+                    "Tension headache is not usually associated with any other symptoms.",
+                    "For Americans, ‘mad’ usually means ‘angry’.",
+                    "Usually, there's no extra charge for delivery.",
+                    "I'm usually home by 6 o'clock.",
+                    "We usually go by car.",
+                    "Results are usually available within a couple of days.",
+                    "I usually only see them at Christmas or weddings.",
+                    "Patients usually have no symptoms.",
+                    "The focus groups usually involve about eight people.",
+                    "You can usually find him at home.",
+                    "These two words usually occur together.",
+                    "Describe what usually happens.",
+                    "He's not usually stuck for words.",
+                    "Planning permission is not usually needed.",
+                    "The journey usually takes an hour.",
+                    "These meetings usually go on for hours.",
+                    "He's not usually this shy."
+                ]
+            }
+        ]
+    }
+]

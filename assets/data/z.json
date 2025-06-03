@@ -1,0 +1,118 @@
+[
+    {
+        "word": "zero",
+        "level": "A2",
+        "pos": "number",
+        "us_audio": "zero_us.mp3",
+        "uk_audio": "zero_uk.mp3",
+        "us_phonetic": "/ˈzɪrəʊ/",
+        "uk_phonetic": "/ˈzɪərəʊ/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "0",
+                "examples": [
+                    "Five, four, three, two, one, zero… We have lift-off."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "a temperature, pressure, etc. that is equal to zero on a scale",
+                "examples": [
+                    "It was ten degrees below zero last night (= −10°C).",
+                    "The thermometer had fallen to zero."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "the lowest possible amount or level; nothing at all",
+                "examples": [
+                    "I rated my chances as zero.",
+                    "zero inflation"
+                ]
+            }
+        ]
+    },
+    {
+        "word": "zone",
+        "level": "B2",
+        "pos": "noun",
+        "us_audio": "zone_us.mp3",
+        "uk_audio": "zone_uk.mp3",
+        "us_phonetic": "/zəʊn/",
+        "uk_phonetic": "/zəʊn/",
+        "senses": [
+            {
+                "sense_index": 1,
+                "definition": "an area or a region with a particular feature or use",
+                "examples": [
+                    "a war/combat/demilitarized/exclusion zone",
+                    "a danger zone",
+                    "a pedestrian zone (= where vehicles may not go)",
+                    "They have called for a 100-mile buffer zone (= protected area) around the island to protect the seals.",
+                    "an earthquake zone",
+                    "Europe is divided into economic zones.",
+                    "Most of the old town is a traffic-free zone.",
+                    "Our truck was trapped in the kill zone.",
+                    "She stood some distance away from him to maintain a safety zone.",
+                    "The internet has become a free-fire zone for conspiracy theories.",
+                    "The area has been declared a closed military zone.",
+                    "The rebels control the southern border zone.",
+                    "The region has been declared an ecological disaster zone.",
+                    "This area behind the station is a no-go zone for tourists.",
+                    "an industrial zone of factories, warehouses and shipyards",
+                    "an oxygen-depleted dead zone at the bottom of the sea",
+                    "the neutral zone between the two countries",
+                    "Half a million people were made homeless throughout the earthquake zone.",
+                    "The agreement provided for a security zone of 80km on both sides of the border.",
+                    "The main part of the city centre is a pedestrian zone."
+                ]
+            },
+            {
+                "sense_index": 2,
+                "definition": "one of the areas that a larger area is divided into for the purpose of organization",
+                "examples": [
+                    "postal charges to countries in zone 2",
+                    "All countries in zones 1 and 2 have free incoming calls.",
+                    "The ticket may be used on any bus in zone 2."
+                ]
+            },
+            {
+                "sense_index": 3,
+                "definition": "an area or a part of an object, especially one that is different from everything that is around it",
+                "examples": [
+                    "When the needle enters the red zone the engine is too hot.",
+                    "the erogenous zones of the body"
+                ]
+            },
+            {
+                "sense_index": 4,
+                "definition": "one of the parts that the earth’s surface is divided into by imaginary lines that are parallel to the equator",
+                "examples": [
+                    "the northern/southern temperate zone",
+                    "This species is found widely distributed throughout the northern temperate zone.",
+                    "the alpine and arid zones of Australia",
+                    "The plant grows only in the temperate zone.",
+                    "the temperate and tropical zones of South America"
+                ]
+            },
+            {
+                "sense_index": 5,
+                "definition": "in a state in which you feel confident and are performing at your best",
+                "examples": [
+                    "When I'm in the zone, writing is the most satisfying thing in the world."
+                ]
+            },
+            {
+                "sense_index": 6,
+                "definition": "a state in which things are strange, mysterious or secret; a state that exists on the dividing line between two things",
+                "examples": [
+                    "the twilight world of the occult",
+                    "The dissidents lived in a twilight world of hushed voices and secret meetings.",
+                    "the twilight zone between living and merely existing",
+                    "They lived in the twilight zone on the fringes of society."
+                ]
+            }
+        ]
+    }
+]
