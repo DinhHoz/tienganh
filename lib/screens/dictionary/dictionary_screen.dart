@@ -2,9 +2,11 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:audioplayers/audioplayers.dart';
 import 'package:app_tieng_anh/config/theme.dart';
-import 'package:app_tieng_anh/models/dictionary_service.dart';
+import 'package:app_tieng_anh/services/dictionary_service.dart';
 
 class DictionaryScreen extends StatefulWidget {
+  const DictionaryScreen({super.key});
+
   @override
   _DictionaryScreenState createState() => _DictionaryScreenState();
 }
@@ -205,7 +207,7 @@ class _DictionaryScreenState extends State<DictionaryScreen> {
                               underline: const SizedBox(),
                               icon: const Icon(
                                 Icons.arrow_drop_down,
-                                color: AppColors.buttonGreen,
+                                color: Color.fromARGB(255, 45, 69, 221),
                               ),
                               items: const [
                                 DropdownMenuItem(

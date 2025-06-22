@@ -1,13 +1,16 @@
-import 'package:app_tieng_anh/screens/home/home_page.dart';
+import 'package:app_tieng_anh/screens/notification/notification_screen.dart';
+import 'package:app_tieng_anh/services/notification_service.dart';
 import 'package:flutter/material.dart';
 import 'package:app_tieng_anh/config/theme.dart';
-import 'package:app_tieng_anh/screens/home/intro_screen_2.dart';
-import 'package:app_tieng_anh/screens/home/home_page.dart';
+
 class IntroScreen1 extends StatelessWidget {
   const IntroScreen1({super.key});
 
   @override
   Widget build(BuildContext context) {
+    // Khởi tạo NotificationService (hoặc nhận từ Navigator nếu cần)
+    final notificationService = NotificationService();
+
     return Scaffold(
       backgroundColor: AppColors.background,
       body: SafeArea(
@@ -42,8 +45,8 @@ class IntroScreen1 extends StatelessWidget {
                     color: AppColors.dialogBackground,
                     borderRadius: BorderRadius.circular(20),
                     border: Border.all(
-                      color: AppColors.dialogBorder, // dùng màu từ theme
-                      width: 1.5, // độ dày viền
+                      color: AppColors.dialogBorder,
+                      width: 1.5,
                     ),
                   ),
                   child: const Text(
@@ -72,11 +75,16 @@ class IntroScreen1 extends StatelessWidget {
                         borderRadius: BorderRadius.circular(10),
                       ),
                     ),
-                    onPressed: () {
-                      Navigator.pushAndRemoveUntil(
+                    onPressed: () async {
+                      // Khởi tạo NotificationService trước khi điều hướng
+                      await notificationService.initNotification();
+                      Navigator.push(
                         context,
-                        MaterialPageRoute(builder: (context) => ChonLoaiCauHoiScreen(userId: 0,)),
-                        (route) => false,
+                        MaterialPageRoute(
+                          builder: (context) => NotificationScreen(
+                            notificationService: notificationService,
+                          ),
+                        ),
                       );
                     },
                     child: const Text(

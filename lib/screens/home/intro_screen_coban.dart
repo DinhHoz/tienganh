@@ -3,7 +3,7 @@ import 'package:app_tieng_anh/config/theme.dart';
 
 
 class BasicLessonScreen extends StatelessWidget {
-  const BasicLessonScreen({Key? key}) : super(key: key);
+  const BasicLessonScreen({super.key});
 
   @override
   Widget build(BuildContext context) {

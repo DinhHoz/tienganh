@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:app_tieng_anh/models/user.dart';
-import 'package:app_tieng_anh/screens/home/edit_password.dart';
+import 'package:app_tieng_anh/screens/auth/edit_password.dart';
 
 class EditProfilePage extends StatefulWidget {
   final Users user;

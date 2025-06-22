@@ -1,10 +1,10 @@
 import 'package:app_tieng_anh/config/theme.dart';
 import 'package:flutter/material.dart';
-import 'package:app_tieng_anh/screens/home/QuizScreen.dart';
-import 'package:app_tieng_anh/screens/home/knowledge_quiz_screen.dart';
-import 'package:app_tieng_anh/screens/home/dictionary_screen.dart';
-import 'package:app_tieng_anh/screens/home/list_words_screen.dart';
-import 'package:app_tieng_anh/screens/home/user_profile.dart';
+import 'package:app_tieng_anh/screens/quiz/QuizScreen.dart';
+import 'package:app_tieng_anh/screens/quiz/knowledge_quiz_screen.dart';
+import 'package:app_tieng_anh/screens/dictionary/dictionary_screen.dart';
+import 'package:app_tieng_anh/screens/quiz/list_words_screen.dart';
+import 'package:app_tieng_anh/screens/auth/user_profile.dart';
 
 // Màn hình chọn loại câu hỏi với thiết kế SlideShow
 class ChonLoaiCauHoiScreen extends StatelessWidget {
@@ -13,12 +13,11 @@ class ChonLoaiCauHoiScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // Get the screen width to make button size responsive
+    
     final screenWidth = MediaQuery.of(context).size.width;
     final buttonSize =
-        screenWidth * 0.6; // 60% of screen width for the main button
-
-    // List of lessons for the slideshow
+        screenWidth * 0.6; 
+    // Danh sách bài học cho bài trình chiếu
     final List<Map<String, dynamic>> lessons = [
       {
         'title': 'Bài Học 1',
@@ -27,7 +26,7 @@ class ChonLoaiCauHoiScreen extends StatelessWidget {
       },
       {
         'title': 'Bài Học 2',
-        'subtitle': 'Câu hỏi từ vựng trắc nghiệm',
+        'subtitle': 'Câu hỏi trắc nghiệm từ vựng theo chủ đề ',
         'destination': QuizScreen(),
       },
       {
@@ -49,7 +48,7 @@ class ChonLoaiCauHoiScreen extends StatelessWidget {
             begin: Alignment.topCenter,
             end: Alignment.bottomCenter,
             colors: [
-              Colors.blue.shade300, // Sky blue at the top
+              Colors.blue.shade300, // Màu xanh da trời 
               const Color.fromARGB(
                 255,
                 247,
@@ -62,7 +61,7 @@ class ChonLoaiCauHoiScreen extends StatelessWidget {
         child: SafeArea(
           child: Column(
             children: [
-              // Top bar with progress, daily goal, streak, and level
+              // Thanh trên cùng với tiến trình, mục tiêu hàng ngày, chuỗi và cấp độ
               Padding(
                 padding: const EdgeInsets.symmetric(
                   horizontal: 16.0,
@@ -71,17 +70,16 @@ class ChonLoaiCauHoiScreen extends StatelessWidget {
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    // Progress circle
+                    
                     Image.asset(
-                      'assets/images/top-rated.png', // Path to your image asset
-                      width: 40, // Match the size of the original icon
+                      'assets/images/top-rated.png', 
+                      width: 40, 
                       height: 40,
-                      // Optional: Apply a color tint if needed (similar to the icon's color)
-              
-                      // Optional: Use colorBlendMode to apply the tint
+                    
+
                       colorBlendMode: BlendMode.modulate,
                     ),
-                    // Daily goal
+                    // Mục tiêu hàng ngày
                     Container(
                       padding: const EdgeInsets.symmetric(
                         horizontal: 18,
@@ -113,18 +111,17 @@ class ChonLoaiCauHoiScreen extends StatelessWidget {
                     ),
                     // Earth icon (placeholder)
                     Image.asset(
-                      'assets/images/earth.png', // Path to your image asset
-                      width: 40, // Match the size of the original icon
+                      'assets/images/earth.png', 
+                      width: 40, 
                       height: 40,
-                      // Optional: Apply a color tint if needed (similar to the icon's color)
-              
-                      // Optional: Use colorBlendMode to apply the tint
+        
+ 
                       colorBlendMode: BlendMode.modulate,
                     ),
                   ],
                 ),
               ),
-              // Daily streak and level
+              // Chuỗi và cấp độ hàng ngày
               Padding(
                 padding: const EdgeInsets.symmetric(
                   horizontal: 16.0,
@@ -171,8 +168,8 @@ class ChonLoaiCauHoiScreen extends StatelessWidget {
                     Padding(
                       padding: const EdgeInsets.only(top: 0),
                       child: Image.asset(
-                        'assets/images/duo4.gif', // Your previously mentioned image path
-                        width: 180, // Adjust size as needed
+                        'assets/images/duo4.gif', 
+                        width: 180, 
                         height: 180,
                       ),
                     ),
@@ -195,17 +192,17 @@ class ChonLoaiCauHoiScreen extends StatelessWidget {
                       
                     ),
                     const SizedBox(height: 20),
-                    // Slideshow using PageView
+                    // Trình chiếu sử dụng PageView
                     SizedBox(
                       height:
-                          buttonSize + 40, // Space for the button and arrows
+                          buttonSize + 40, 
                       child: PageView.builder(
                         itemCount: lessons.length,
                         itemBuilder: (context, index) {
                           final lesson = lessons[index];
                           return Stack(
                             children: [
-                              // Lesson button
+                              // Nút bài học
                               Center(
                                 child: _buildCustomButton(
                                   context: context,

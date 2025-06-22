@@ -1,11 +1,9 @@
 {
   "project_info": {
-
     "project_number": "588678431791",
     "firebase_url": "https://tu-vung-tienganh-default-rtdb.asia-southeast1.firebasedatabase.app",
     "project_id": "tu-vung-tienganh",
     "storage_bucket": "tu-vung-tienganh.firebasestorage.app"
-
   },
   "client": [
     {
@@ -15,8 +13,12 @@
           "package_name": "com.example.app_tieng_anh"
         }
       },
-
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "588678431791-39ufdkqgguj6clqgp62ilq7g1t0h9bv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCgc2KJ5eVk8f49xi19y5m1WmmgisVaqF0"
@@ -24,29 +26,55 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
-
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588678431791-39ufdkqgguj6clqgp62ilq7g1t0h9bv9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "588678431791-2q7ivd05huj48ibgikf8hcl5ajieitq8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appTiengAnh"
+              }
+            }
+          ]
         }
       }
     },
     {
       "client_info": {
-
         "mobilesdk_app_id": "1:588678431791:android:636ba2d3dfc9cafeea72da",
         "android_client_info": {
           "package_name": "com.example.test_mobile"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "588678431791-39ufdkqgguj6clqgp62ilq7g1t0h9bv9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCgc2KJ5eVk8f49xi19y5m1WmmgisVaqF0"
-
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588678431791-39ufdkqgguj6clqgp62ilq7g1t0h9bv9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "588678431791-2q7ivd05huj48ibgikf8hcl5ajieitq8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appTiengAnh"
+              }
+            }
+          ]
         }
       }
     }

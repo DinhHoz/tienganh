@@ -41,7 +41,6 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-
     apiKey: 'AIzaSyCBIw7dshbRqatOfiCMY6vcHwkID13JQZw',
     appId: '1:588678431791:web:2d29d443305966a9ea72da',
     messagingSenderId: '588678431791',
@@ -68,24 +67,22 @@ class DefaultFirebaseOptions {
     projectId: 'tu-vung-tienganh',
     databaseURL: 'https://tu-vung-tienganh-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'tu-vung-tienganh.firebasestorage.app',
-
+    iosClientId: '588678431791-2q7ivd05huj48ibgikf8hcl5ajieitq8.apps.googleusercontent.com',
     iosBundleId: 'com.example.appTiengAnh',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-
     apiKey: 'AIzaSyDoe3BW7NN71bJH-pVHbPQ2fuuUMK_Btk0',
     appId: '1:588678431791:ios:8afa1131aa0804f4ea72da',
     messagingSenderId: '588678431791',
     projectId: 'tu-vung-tienganh',
     databaseURL: 'https://tu-vung-tienganh-default-rtdb.asia-southeast1.firebasedatabase.app',
     storageBucket: 'tu-vung-tienganh.firebasestorage.app',
-
+    iosClientId: '588678431791-2q7ivd05huj48ibgikf8hcl5ajieitq8.apps.googleusercontent.com',
     iosBundleId: 'com.example.appTiengAnh',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-
     apiKey: 'AIzaSyCBIw7dshbRqatOfiCMY6vcHwkID13JQZw',
     appId: '1:588678431791:web:fea5ac1d3b8edb5eea72da',
     messagingSenderId: '588678431791',
@@ -95,5 +92,5 @@ class DefaultFirebaseOptions {
     storageBucket: 'tu-vung-tienganh.firebasestorage.app',
     measurementId: 'G-K60W35Z646',
   );
-}
 
+}

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import './user_profile.dart'; // Đảm bảo UserProfilePage nhận userId
+import 'user_profile.dart'; // Đảm bảo UserProfilePage nhận userId
 
 class HomePage extends StatelessWidget {
   final int userId;

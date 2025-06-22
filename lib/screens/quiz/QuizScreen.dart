@@ -1,21 +1,26 @@
 import 'dart:math';
-import 'package:app_tieng_anh/screens/home/account_page.dart';
+import 'package:app_tieng_anh/screens/auth/account_page.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 import 'package:app_tieng_anh/models/Quiz_question.dart';
 import 'package:app_tieng_anh/config/theme.dart'; // import AppColors, AppTextStyles từ đây
 
 class QuizScreen extends StatefulWidget {
+  const QuizScreen({super.key});
+
   @override
   State<QuizScreen> createState() => _QuizScreenState();
 }
 
 class _QuizScreenState extends State<QuizScreen> {
   List<Question> allQuestions = [];
-  List<Question> currentQuizQuestions = [];
+  // Chứa danh sách các câu hỏi hiện tại
+  List<Question> currentQuizQuestions = []; 
+  // Biến này lưu chỉ số câu hỏi hiện tại mà người dùng đang làm.
   int currentQuestionIndex = 0;
   bool isLoading = true;
   String? errorMessage;
+  // Chủ đề được người dùng chọn (ví dụ: "Động vật", "Quốc gia"...), dùng để lọc câu hỏi theo chủ đề.
   String? selectedTopic;
   String? selectedAnswerId;
   bool showResult = false;
@@ -230,6 +235,7 @@ class _QuizScreenState extends State<QuizScreen> {
 
   @override
   Widget build(BuildContext context) {
+     // Trường hợp đang tải dữ liệu
     if (isLoading) {
       return Scaffold(
         backgroundColor: Colors.white,
@@ -240,7 +246,7 @@ class _QuizScreenState extends State<QuizScreen> {
         ),
       );
     }
-
+    // Trường hợp xảy ra lỗi (ví dụ không load được câu hỏi)
     if (errorMessage != null) {
       return Scaffold(
         backgroundColor: Colors.white,
@@ -288,7 +294,7 @@ class _QuizScreenState extends State<QuizScreen> {
         ),
       );
     }
-
+    // Trường hợp chưa chọn chủ đề nào
     if (selectedTopic == null) {
       return Scaffold(
         backgroundColor: Colors.white,
@@ -346,7 +352,7 @@ class _QuizScreenState extends State<QuizScreen> {
         ),
       );
     }
-
+    // Nếu đã chọn chủ đề -> hiển thị câu hỏi
     final question = currentQuizQuestions[currentQuestionIndex];
 
     return Scaffold(
@@ -354,7 +360,7 @@ class _QuizScreenState extends State<QuizScreen> {
       appBar: AppBar(
         backgroundColor: Colors.grey[100],
         title: Text(
-          "${question.title} - $selectedTopic",
+          "${question.title} - $selectedTopic", // tiêu đề câu hỏi và chủ đề
           style: const TextStyle(
             fontSize: 20,
             fontWeight: FontWeight.bold,
@@ -364,12 +370,13 @@ class _QuizScreenState extends State<QuizScreen> {
         actions: [
           IconButton(
             icon: const Icon(Icons.arrow_back, color: Colors.black54),
-            onPressed: () => setState(() => selectedTopic = null),
+            onPressed: () => setState(() => selectedTopic = null), // Quay lại chọn chủ đề
           ),
         ],
       ),
       body: Column(
         children: [
+          // Thanh tiến trình câu hỏi
           Container(
             margin: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
             child: LinearProgressIndicator(
@@ -380,6 +387,7 @@ class _QuizScreenState extends State<QuizScreen> {
               borderRadius: BorderRadius.circular(8),
             ),
           ),
+          // Hiển thị nội dung câu hỏi
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 20),
             child: Card(
@@ -401,6 +409,7 @@ class _QuizScreenState extends State<QuizScreen> {
               ),
             ),
           ),
+          // Hiển thị danh sách đáp án (image hoặc text)
           Expanded(
             child: question.type == 'image'
                 ? GridView.count(
@@ -420,6 +429,7 @@ class _QuizScreenState extends State<QuizScreen> {
                         .toList(),
                   ),
           ),
+           // Nút KIỂM TRA hoặc TIẾP TỤC
           Padding(
             padding: const EdgeInsets.all(20.0),
             child: ElevatedButton(

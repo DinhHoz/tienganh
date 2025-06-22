@@ -2,7 +2,7 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 
 class WordApi {
-  static const String baseUrl = 'http://10.0.2.2:8080/api_english_app';
+  static const String baseUrl = 'http://10.0.2.2:80/api_english_app';
 
   /// Lấy danh sách word_id mà user đã học
   static Future<List<int>> getLearnedWords(int userId) async {

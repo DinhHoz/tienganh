@@ -22,7 +22,7 @@ class _VocabularyExerciseScreenState extends State<VocabularyExerciseScreen> {
     super.initState();
     _loadQuestion();
   }
-
+// Tải câu hỏi mới từ API và khởi tạo lại trạng thái
   void _loadQuestion() {
     setState(() {
       _questionFuture = _apiService.fetchQuestions(amount: 1).then((list) {
@@ -35,13 +35,14 @@ class _VocabularyExerciseScreenState extends State<VocabularyExerciseScreen> {
     });
   }
 
+  // ghi nhận nguoi dùng chọn đáp án nhưng chưa hiển thị kết quả
   void _onOptionSelected(String optionId) {
     setState(() {
-      _selectedOptionId = optionId;
-      _showResult = false;
+      _selectedOptionId = optionId; // Lưu ID của đáp án người dùng vừa chọn
+      _showResult = false; // Ẩn kết quả nếu có hiện trước đó
     });
   }
-
+  // Nếu người dùng chưa chọn đáp án, hiển thị cảnh báo
   void _checkAnswer(String correctAnswerId) {
     if (_selectedOptionId == null) {
       ScaffoldMessenger.of(context).showSnackBar(
@@ -49,12 +50,12 @@ class _VocabularyExerciseScreenState extends State<VocabularyExerciseScreen> {
       );
       return;
     }
-
+  // Nếu đã chọn, kiểm tra và hiển thị kết quả
     setState(() {
       _isCorrect = _selectedOptionId == correctAnswerId;
       _showResult = true;
     });
-
+  // Nếu đúng, sau 3 giây tự động tải câu hỏi mới
     if (_isCorrect) {
       Future.delayed(const Duration(seconds: 3), () {
         _loadQuestion();
@@ -86,12 +87,14 @@ class _VocabularyExerciseScreenState extends State<VocabularyExerciseScreen> {
       body: FutureBuilder<Question>(
         future: _questionFuture,
         builder: (context, snapshot) {
+          // Hiển thị vòng loading khi đang chờ dữ liệu từ API
           if (snapshot.connectionState == ConnectionState.waiting) {
             return const Center(
               child: CircularProgressIndicator(
                 color: Colors.blue,
               ),
             );
+          // Nếu lỗi – hiển thị thông báo lỗi và nút "Thử lại"
           } else if (snapshot.hasError) {
             return Center(
               child: Column(
@@ -138,6 +141,7 @@ class _VocabularyExerciseScreenState extends State<VocabularyExerciseScreen> {
                 ],
               ),
             );
+          // Nếu có dữ liệu – hiển thị câu hỏi và các đáp án:
           } else if (snapshot.hasData) {
             final question = snapshot.data!;
             return Padding(
@@ -170,7 +174,9 @@ class _VocabularyExerciseScreenState extends State<VocabularyExerciseScreen> {
                     ),
                     const SizedBox(height: 40),
                     ...question.options.map((option) {
+                        // Kiểm tra xem người dùng có chọn option này chưa
                       final isSelected = _selectedOptionId == option.id;
+                         // Thiết lập màu sắc, viền tùy theo trạng thái đúng/sai
                       Color borderColor = Colors.transparent;
                       Color bgColor = Colors.grey[100]!;
                       if (_showResult) {
@@ -218,8 +224,9 @@ class _VocabularyExerciseScreenState extends State<VocabularyExerciseScreen> {
                           ),
                         ),
                       );
-                    }).toList(),
+                    }),
                     const SizedBox(height: 30),
+                    // Nút kiểm tra đáp án
                     ElevatedButton(
                       onPressed: () => _checkAnswer(question.correctAnswerId),
                       style: ElevatedButton.styleFrom(

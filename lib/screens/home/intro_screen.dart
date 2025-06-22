@@ -1,4 +1,4 @@
-import 'package:app_tieng_anh/screens/home/login_screen.dart';
+import 'package:app_tieng_anh/screens/auth/login_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:app_tieng_anh/config/theme.dart';
 import 'package:app_tieng_anh/screens/home/intro_screen_1.dart';

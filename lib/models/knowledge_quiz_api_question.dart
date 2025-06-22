@@ -4,14 +4,13 @@ import 'package:http/http.dart' as http;
 import 'knowledge_quiz_question.dart';
 
 class ApiService {
-  // Keep track of the last request time
-  static DateTime? _lastRequestTime;
-  static const int _minRequestIntervalMs = 1000; // 1 second between requests
-  static const int _maxRetries = 3; // Maximum retries for 429 errors
-  static const int _retryDelaySeconds = 5; // Delay before retrying after 429
-
+   // Theo dõi thời gian gửi yêu cầu cuối cùng
+  static DateTime? _lastRequestTime;// lưu trữ thời gian gửi yêu cầu cuối cùng
+  static const int _minRequestIntervalMs = 1000; //  Khoảng cách tối thiểu giữa các yêu cầu: 1 giây
+  static const int _maxRetries = 3; // Số lần thử lại tối đa nếu gặp lỗi 429
+  static const int _retryDelaySeconds = 5; //  Thời gian chờ trước khi thử lại sau lỗi 429
   Future<List<Question>> fetchQuestions({int amount = 1}) async {
-    // Ensure minimum interval between requests
+    // Đảm bảo khoảng cách tối thiểu giữa các yêu cầu
     if (_lastRequestTime != null) {
       final timeSinceLastRequest = DateTime.now().difference(_lastRequestTime!);
       final remainingMs = _minRequestIntervalMs - timeSinceLastRequest.inMilliseconds;
@@ -28,7 +27,7 @@ class ApiService {
         final response = await http.get(url).timeout(const Duration(seconds: 10));
 
         if (response.statusCode == 200) {
-          final data = jsonDecode(response.body);
+          final data = jsonDecode(response.body); // Chuyển JSON thành Map
           if (data['response_code'] == 0) {
             return (data['results'] as List)
                 .map((json) => Question.fromJson(json))
@@ -40,7 +39,7 @@ class ApiService {
           if (attempt == _maxRetries) {
             throw Exception('HTTP error: 429 - Too many requests, max retries reached.');
           }
-          // Wait before retrying
+           // Chờ trước khi thử lại
           await Future.delayed(Duration(seconds: _retryDelaySeconds));
           continue;
         } else {

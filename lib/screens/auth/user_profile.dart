@@ -1,10 +1,10 @@
 import 'dart:async';
-import 'package:app_tieng_anh/screens/home/settings_page.dart';
+import 'package:app_tieng_anh/screens/settings/settings_page.dart';
 import 'package:flutter/material.dart';
 import 'package:app_tieng_anh/models/user.dart';
-import 'package:app_tieng_anh/screens/home/edit_profile.dart';
-import './database_service.dart';
-import './learnedWordsPage.dart';
+import 'package:app_tieng_anh/screens/auth/edit_profile.dart';
+import '../../services/database_service.dart';
+import '../quiz/learnedWordsPage.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 
 class UserProfilePage extends StatefulWidget {
@@ -19,6 +19,7 @@ class UserProfilePage extends StatefulWidget {
 class _UserProfilePageState extends State<UserProfilePage> {
   Users? user;
   bool _isLoading = true;
+  @override
   void initState() {
     super.initState();
     _loadUser();
@@ -82,11 +83,8 @@ class _UserProfilePageState extends State<UserProfilePage> {
               children: [
                 CircleAvatar(
                   radius: 40,
-                  backgroundImage:
-                      u.avatarUrl.isNotEmpty
-                          ? NetworkImage(u.avatarUrl)
-                          : const AssetImage("assets/images/default.png")
-                              as ImageProvider,
+                  backgroundImage: 
+                    const AssetImage("assets/images/avatar1.png"),
                 ),
                 const SizedBox(width: 16),
                 Column(
@@ -175,7 +173,7 @@ class _UserProfilePageState extends State<UserProfilePage> {
                             const SizedBox(width: 8),
                             Expanded(
                               child: Text(
-                                "Từ đã học: ${u.wordsLearned}",
+                                "Từ đã học: ${u.learnedWords.length}",
                                 style: const TextStyle(
                                   fontSize: 16,
                                   fontWeight: FontWeight.w500,

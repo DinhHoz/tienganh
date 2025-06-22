@@ -3,9 +3,8 @@ import 'package:app_tieng_anh/config/theme.dart';
 import '../../services/user_api.dart';
 import '../../models/user.dart';
 import 'register_screen.dart';
-import 'package:google_sign_in/google_sign_in.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'home_page.dart';
+import '../home/home_page.dart';
 
 FirebaseAuth _auth = FirebaseAuth.instance;
 

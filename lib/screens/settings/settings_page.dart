@@ -1,6 +1,6 @@
 import 'package:app_tieng_anh/models/user.dart';
 import 'package:app_tieng_anh/screens/home/CoursesPage.dart';
-import 'package:app_tieng_anh/screens/home/edit_profile.dart';
+import 'package:app_tieng_anh/screens/auth/edit_profile.dart';
 import 'package:flutter/material.dart';
 
 class SettingsPage extends StatelessWidget {

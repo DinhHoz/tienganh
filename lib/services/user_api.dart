@@ -3,7 +3,7 @@ import 'package:http/http.dart' as http;
 
 class UserApi {
   static const String baseUrl =
-      'http://10.0.2.2/api_english_app'; // địa chỉ IP máy chủ
+      'http://10.0.2.2:80/api_english_app'; // địa chỉ IP máy chủ
 
   static Future<Map<String, dynamic>> login(
     String username,
@@ -24,7 +24,7 @@ class UserApi {
     String password,
     String name,
   ) async {
-    final url = Uri.parse('http://10.0.2.2/api_english_app/register.php');
+    final url = Uri.parse('http://10.0.2.2:80/api_english_app/register.php');
 
     try {
       final response = await http.post(

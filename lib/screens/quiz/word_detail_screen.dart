@@ -6,7 +6,7 @@ class WordDetailScreen extends StatelessWidget {
   final Word word;
   final AudioPlayer _player = AudioPlayer();
 
-  WordDetailScreen({required this.word});
+  WordDetailScreen({super.key, required this.word});
 
   void _playAudio(String assetPath) async {
     try {
@@ -21,6 +21,7 @@ class WordDetailScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(title: Text(word.word)),
+      backgroundColor: Colors.black,
       body: Padding(
         padding: const EdgeInsets.all(16),
         child: ListView(
